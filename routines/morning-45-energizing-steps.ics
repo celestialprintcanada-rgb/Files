@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
 X-WR-CALNAME:Morning Routine 45 min (Energizing) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake + water + daylight
-DTSTART:20261102T060000
-DTEND:20261102T060300
-DTSTAMP:20261016T120000Z
-UID:92284e5de17ee08cb98d@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060300
+DTSTAMP:20261018T120000Z
+UID:b49ff172d80c46846a26@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Lights on or step outside\, drink a full glass of water.\n\nDe
  fault start: 6:00 AM. Move it to any time that suits you: open the event\,
@@ -32,10 +32,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout
-DTSTART:20261102T060300
-DTEND:20261102T061800
-DTSTAMP:20261016T120000Z
-UID:caefa57eeae5a2549201@celestialprintcanada
+DTSTART:20261005T060300
+DTEND:20261005T061800
+DTSTAMP:20261018T120000Z
+UID:a40c3fbcb886333a6152@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:15-min no-equipment circuit: 2-min warm-up march\, then 3 roun
  ds of 40s on/20s off: jumping jacks or step-jacks\, squats\, push-ups (wal
@@ -48,10 +48,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Shower + get dressed
-DTSTART:20261102T061800
-DTEND:20261102T062800
-DTSTAMP:20261016T120000Z
-UID:013106df88705632307b@celestialprintcanada
+DTSTART:20261005T061800
+DTEND:20261005T062800
+DTSTAMP:20261018T120000Z
+UID:60534528723ed7ea8bcb@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Default start: 6:00 AM. Move it to any time that suits you: op
  en the event\, tap Edit\, change the start time\, then choose 'Save for Fu
@@ -62,10 +62,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Breakfast
-DTSTART:20261102T062800
-DTEND:20261102T064000
-DTSTAMP:20261016T120000Z
-UID:62689d827b83da5a6935@celestialprintcanada
+DTSTART:20261005T062800
+DTEND:20261005T064000
+DTSTAMP:20261018T120000Z
+UID:750fb3ec83b9184aed3a@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Pick from your 7-day plan. Pack your snack or lunch.\n\nDefaul
  t start: 6:00 AM. Move it to any time that suits you: open the event\, tap
@@ -76,10 +76,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Plan the day
-DTSTART:20261102T064000
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:58972c166267793ad41e@celestialprintcanada
+DTSTART:20261005T064000
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:b56cf9f48e0308c923f3@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Top 3\, check the calendar\, tidy one surface on the way out.
  \n\nDefault start: 6:00 AM. Move it to any time that suits you: open the e

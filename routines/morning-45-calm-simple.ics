@@ -10,11 +10,12 @@ X-WR-CALDESC:45-minute routine. Daily. Default start: 6:00 AM. Move it to
  new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Morning Routine 45 min (Calm)
 BEGIN:VEVENT
-SUMMARY:Morning Routine 45 min (Calm)
-DTSTART:20261102T060000
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:a8b745dd3596315a1767@celestialprintcanada
+SUMMARY:Morning Routine 45 min (Calm): water\, movement\, shower\, breakfa
+ st\, journal
+DTSTART:20261005T060000
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:2058d989a74767604814@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Wake slowly + water (5 min) - Blinds open\, water\, sit for
   5 slow breaths.\n2. Calm movement (15 min) - 15-min calm movement: 10-min

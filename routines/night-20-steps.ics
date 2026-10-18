@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 9:30 PM. Mov
 X-WR-CALNAME:Night Routine 20 min (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Prep for tomorrow
-DTSTART:20261102T213000
-DTEND:20261102T213500
-DTSTAMP:20261016T120000Z
-UID:81944a35494369dd538b@celestialprintcanada
+DTSTART:20261005T213000
+DTEND:20261005T213500
+DTSTAMP:20261018T120000Z
+UID:ea1446d2e414d614250f@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Lay out clothes\, pack bag\, check tomorrow's calendar.\n\nDef
  ault start: 9:30 PM. Move it to any time that suits you: open the event\, 
@@ -31,10 +31,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. 10-minute tidy
-DTSTART:20261102T213500
-DTEND:20261102T214500
-DTSTAMP:20261016T120000Z
-UID:da6cf07865f435b7e447@celestialprintcanada
+DTSTART:20261005T213500
+DTEND:20261005T214500
+DTSTAMP:20261018T120000Z
+UID:ecaa8f772ed864ae08a8@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Dishes in\, counters wiped\, things back where they live. Time
  r on\, stop when it rings.\n\nDefault start: 9:30 PM. Move it to any time 
@@ -46,10 +46,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Screens off + into bed
-DTSTART:20261102T214500
-DTEND:20261102T215000
-DTSTAMP:20261016T120000Z
-UID:729581cd341fe1ddaa42@celestialprintcanada
+DTSTART:20261005T214500
+DTEND:20261005T215000
+DTSTAMP:20261018T120000Z
+UID:565583967f415c8d209d@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Phone on the charger away from the bed. Lights low.\n\nDefault
   start: 9:30 PM. Move it to any time that suits you: open the event\, tap 

@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
 X-WR-CALNAME:Morning Routine 30 min (Energizing) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake + water
-DTSTART:20261102T060000
-DTEND:20261102T060200
-DTSTAMP:20261016T120000Z
-UID:b60bfb2428c325201f32@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060200
+DTSTAMP:20261018T120000Z
+UID:24371ddf9853b9510edc@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Feet on the floor\, lights on\, drink a full glass of water.\n
  \nDefault start: 6:00 AM. Move it to any time that suits you: open the eve
@@ -31,10 +31,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout
-DTSTART:20261102T060200
-DTEND:20261102T061200
-DTSTAMP:20261016T120000Z
-UID:9369f1ace401e1ec8c4d@celestialprintcanada
+DTSTART:20261005T060200
+DTEND:20261005T061200
+DTSTAMP:20261018T120000Z
+UID:ae37f459aaf2a763a270@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:10-min no-equipment circuit: 2 rounds of 45s on/15s off: march
  ing or jogging in place\, squats\, wall or knee push-ups\, glute bridges\,
@@ -47,10 +47,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Quick shower + get dressed
-DTSTART:20261102T061200
-DTEND:20261102T062000
-DTSTAMP:20261016T120000Z
-UID:27d62274d233d4d2ae95@celestialprintcanada
+DTSTART:20261005T061200
+DTEND:20261005T062000
+DTSTAMP:20261018T120000Z
+UID:b680852f4f679db50bf2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Clothes were laid out last night. Keep it quick.\n\nDefault st
  art: 6:00 AM. Move it to any time that suits you: open the event\, tap Edi
@@ -61,10 +61,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Fast breakfast
-DTSTART:20261102T062000
-DTEND:20261102T062800
-DTSTAMP:20261016T120000Z
-UID:8b0d43f76003223536db@celestialprintcanada
+DTSTART:20261005T062000
+DTEND:20261005T062800
+DTSTAMP:20261018T120000Z
+UID:255c71ee0e0a0ad2f1f3@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Pick one from your 7-day breakfast plan. Sit down to eat it.\n
  \nDefault start: 6:00 AM. Move it to any time that suits you: open the eve
@@ -76,10 +76,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Top 3 for today
-DTSTART:20261102T062800
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:f1dc59ac149a45e27534@celestialprintcanada
+DTSTART:20261005T062800
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:166a4242681a158cdb36@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Write your top 3 and grab your bag. Out the door.\n\nDefault s
  tart: 6:00 AM. Move it to any time that suits you: open the event\, tap Ed

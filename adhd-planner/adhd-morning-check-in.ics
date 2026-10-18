@@ -10,10 +10,10 @@ X-WR-CALDESC:Suggested time only: move it to whenever suits you. Optional
 X-WR-CALNAME:ADHD Planner: 2-minute morning check-in
 BEGIN:VEVENT
 SUMMARY:2-minute morning check-in
-DTSTART:20261102T080000
-DTEND:20261102T080200
-DTSTAMP:20261016T120000Z
-UID:c641215156c0cf4439fa@celestialprintcanada
+DTSTART:20261005T080000
+DTEND:20261005T080200
+DTSTAMP:20261018T120000Z
+UID:882ff1ea6f038d7b2c06@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Energy today: low / ok / high. Pick your top 1-3. Take one 2-m
  inute starter step now.\n\nDefault time: 8:00 AM. Suggested time only: mov

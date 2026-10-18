@@ -10,11 +10,11 @@ X-WR-CALDESC:45-minute routine. Daily. Default start: 9:00 PM. Move it to
  new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Night Routine 45 min
 BEGIN:VEVENT
-SUMMARY:Night Routine 45 min
-DTSTART:20261102T210000
-DTEND:20261102T214500
-DTSTAMP:20261016T120000Z
-UID:da2449c603843f1d2377@celestialprintcanada
+SUMMARY:Night Routine 45 min: wind down\, prep\, tidy\, screens off\, read
+DTSTART:20261005T210000
+DTEND:20261005T214500
+DTSTAMP:20261018T120000Z
+UID:a7d8c28f1b00ce9e4bc2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Wind down (10 min) - Lights low\, warm shower or herbal tea
  \, no caffeine or big meals now.\n2. Prep for tomorrow (10 min) - Clothes 

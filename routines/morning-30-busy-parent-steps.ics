@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
 X-WR-CALNAME:Morning Routine 30 min (Busy Parent) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake before the kids + water
-DTSTART:20261102T060000
-DTEND:20261102T060200
-DTSTAMP:20261016T120000Z
-UID:811d209a2ba88d2c0112@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060200
+DTSTAMP:20261018T120000Z
+UID:0dd3027456b87cccb7f9@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Even 2 quiet minutes count. Drink water.\n\nDefault start: 6:0
  0 AM. Move it to any time that suits you: open the event\, tap Edit\, chan
@@ -31,10 +31,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout
-DTSTART:20261102T060200
-DTEND:20261102T061200
-DTSTAMP:20261016T120000Z
-UID:5563d8649296eb446255@celestialprintcanada
+DTSTART:20261005T060200
+DTEND:20261005T061200
+DTSTAMP:20261018T120000Z
+UID:69f5a0810ef0077a39c4@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:10-min do-it-anywhere moves: squats while the kettle boils\, w
  all push-ups\, calf raises\, and a dance song with the kids.\n\nDefault st
@@ -46,10 +46,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Quick get-ready
-DTSTART:20261102T061200
-DTEND:20261102T061800
-DTSTAMP:20261016T120000Z
-UID:726b89e98efeb5358b35@celestialprintcanada
+DTSTART:20261005T061200
+DTEND:20261005T061800
+DTSTAMP:20261018T120000Z
+UID:28523935eb48afa54a55@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Fast wash\, dress in what you laid out.\n\nDefault start: 6:00
   AM. Move it to any time that suits you: open the event\, tap Edit\, chang
@@ -60,10 +60,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Family breakfast + lunches out
-DTSTART:20261102T061800
-DTEND:20261102T062600
-DTSTAMP:20261016T120000Z
-UID:04b0173be2b62459beb7@celestialprintcanada
+DTSTART:20261005T061800
+DTEND:20261005T062600
+DTSTAMP:20261018T120000Z
+UID:7e81a958393e6ddefa22@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Grab-and-go options from the plan\; lunches were packed last n
  ight.\n\nDefault start: 6:00 AM. Move it to any time that suits you: open 
@@ -75,10 +75,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Out-the-door check
-DTSTART:20261102T062600
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:4ae747ec1dc45d64d1fc@celestialprintcanada
+DTSTART:20261005T062600
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:4f959e94bc34d501f2c6@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Bags\, keys\, phone\, lunches\, permission slips. Shoes on.\n
  \nDefault start: 6:00 AM. Move it to any time that suits you: open the eve

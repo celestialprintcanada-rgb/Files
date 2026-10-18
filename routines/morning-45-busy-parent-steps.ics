@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
 X-WR-CALNAME:Morning Routine 45 min (Busy Parent) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake before the kids + water
-DTSTART:20261102T060000
-DTEND:20261102T060500
-DTSTAMP:20261016T120000Z
-UID:96a30486bd0fd8c31b81@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060500
+DTSTAMP:20261018T120000Z
+UID:44fdc23d1d90ce6c7572@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Quiet coffee or tea\, water first.\n\nDefault start: 6:00 AM. 
  Move it to any time that suits you: open the event\, tap Edit\, change the
@@ -31,10 +31,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout
-DTSTART:20261102T060500
-DTEND:20261102T061700
-DTSTAMP:20261016T120000Z
-UID:a0a8af83d8e2280b44a8@celestialprintcanada
+DTSTART:20261005T060500
+DTEND:20261005T061700
+DTSTAMP:20261018T120000Z
+UID:b0972a773df6ac6a9f87@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:12-min no-equipment circuit: squats\, wall push-ups\, lunges\,
   glute bridges\, plank. Kids welcome to join.\n\nDefault start: 6:00 AM. M
@@ -46,10 +46,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Get ready
-DTSTART:20261102T061700
-DTEND:20261102T062500
-DTSTAMP:20261016T120000Z
-UID:030530972b72cb5810ff@celestialprintcanada
+DTSTART:20261005T061700
+DTEND:20261005T062500
+DTSTAMP:20261018T120000Z
+UID:984d87e4e7d68fece222@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Default start: 6:00 AM. Move it to any time that suits you: op
  en the event\, tap Edit\, change the start time\, then choose 'Save for Fu
@@ -60,10 +60,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Family breakfast
-DTSTART:20261102T062500
-DTEND:20261102T063700
-DTSTAMP:20261016T120000Z
-UID:153915f47398362741a8@celestialprintcanada
+DTSTART:20261005T062500
+DTEND:20261005T063700
+DTSTAMP:20261018T120000Z
+UID:e0462161b8817abff559@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:From the plan. Kids help set out bowls.\n\nDefault start: 6:00
   AM. Move it to any time that suits you: open the event\, tap Edit\, chang
@@ -74,10 +74,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Out-the-door check
-DTSTART:20261102T063700
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:fbc7f45fea471b6305d1@celestialprintcanada
+DTSTART:20261005T063700
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:14ae82f16d5430db7793@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Bags\, lunches\, keys\, forms\, weather gear. 2-min wipe of th
  e counter.\n\nDefault start: 6:00 AM. Move it to any time that suits you: 

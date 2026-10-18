@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 9:00 PM. Mov
 X-WR-CALNAME:Night Routine 45 min (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wind down
-DTSTART:20261102T210000
-DTEND:20261102T211000
-DTSTAMP:20261016T120000Z
-UID:8363ce458d9aadfc7520@celestialprintcanada
+DTSTART:20261005T210000
+DTEND:20261005T211000
+DTSTAMP:20261018T120000Z
+UID:ccbb6c3e38736babdbd2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Lights low\, warm shower or herbal tea\, no caffeine or big me
  als now.\n\nDefault start: 9:00 PM. Move it to any time that suits you: op
@@ -31,10 +31,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Prep for tomorrow
-DTSTART:20261102T211000
-DTEND:20261102T212000
-DTSTAMP:20261016T120000Z
-UID:75ac23861012b00a2c96@celestialprintcanada
+DTSTART:20261005T211000
+DTEND:20261005T212000
+DTSTAMP:20261018T120000Z
+UID:6b585cbb1bb58ef0d414@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Clothes out\, lunch packed\, bag by the door\, top 3 written.
  \n\nDefault start: 9:00 PM. Move it to any time that suits you: open the e
@@ -46,10 +46,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. 10-minute tidy
-DTSTART:20261102T212000
-DTEND:20261102T213000
-DTSTAMP:20261016T120000Z
-UID:7ede7b883cad465077a5@celestialprintcanada
+DTSTART:20261005T212000
+DTEND:20261005T213000
+DTSTAMP:20261018T120000Z
+UID:2888812140dee98789a9@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Kitchen reset\, one room pick-up. Stop at the timer.\n\nDefaul
  t start: 9:00 PM. Move it to any time that suits you: open the event\, tap
@@ -60,10 +60,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Screens off
-DTSTART:20261102T213000
-DTEND:20261102T213500
-DTSTAMP:20261016T120000Z
-UID:8f1e70107c122774326e@celestialprintcanada
+DTSTART:20261005T213000
+DTEND:20261005T213500
+DTSTAMP:20261018T120000Z
+UID:193e97d9f2e45c4b30b3@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Devices off and charging outside the bedroom if you can.\n\nDe
  fault start: 9:00 PM. Move it to any time that suits you: open the event\,
@@ -75,10 +75,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Read\, stretch or journal + sleep
-DTSTART:20261102T213500
-DTEND:20261102T214500
-DTSTAMP:20261016T120000Z
-UID:bbd5a2d99d0d0d8da565@celestialprintcanada
+DTSTART:20261005T213500
+DTEND:20261005T214500
+DTSTAMP:20261018T120000Z
+UID:827c3d8065418810f684@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Paper book\, gentle stretch\, or 3 lines of journal. Lights ou
  t.\n\nDefault start: 9:00 PM. Move it to any time that suits you: open the

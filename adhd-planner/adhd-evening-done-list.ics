@@ -10,10 +10,10 @@ X-WR-CALDESC:Suggested time only: move it to whenever suits you. Optional
 X-WR-CALNAME:ADHD Planner: Evening done list
 BEGIN:VEVENT
 SUMMARY:Evening done list
-DTSTART:20261102T203000
-DTEND:20261102T203500
-DTSTAMP:20261016T120000Z
-UID:c8ee9c1422b0cd874b1b@celestialprintcanada
+DTSTART:20261005T203000
+DTEND:20261005T203500
+DTSTAMP:20261018T120000Z
+UID:615dff4df177093dabf2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Write 3+ things you DID today (drank water counts). Move anyth
  ing unfinished to tomorrow\, no guilt.\n\nDefault time: 8:30 PM. Suggested

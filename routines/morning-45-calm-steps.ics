@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
 X-WR-CALNAME:Morning Routine 45 min (Calm) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake slowly + water
-DTSTART:20261102T060000
-DTEND:20261102T060500
-DTSTAMP:20261016T120000Z
-UID:1e3c03af62e57ec852ec@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060500
+DTSTAMP:20261018T120000Z
+UID:339a2fdadaaa92a96a15@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Blinds open\, water\, sit for 5 slow breaths.\n\nDefault start
  : 6:00 AM. Move it to any time that suits you: open the event\, tap Edit\,
@@ -30,10 +30,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Calm movement
-DTSTART:20261102T060500
-DTEND:20261102T062000
-DTSTAMP:20261016T120000Z
-UID:15032449b07b41b71e24@celestialprintcanada
+DTSTART:20261005T060500
+DTEND:20261005T062000
+DTSTAMP:20261018T120000Z
+UID:efb82697ac64d8395ffc@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:15-min calm movement: 10-min brisk walk (outside if you can\, 
  for daylight) or gentle stretch flow\, then 5 min easy stretching.\n\nDefa
@@ -46,10 +46,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Shower + get ready
-DTSTART:20261102T062000
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:146282abc0adc6d34753@celestialprintcanada
+DTSTART:20261005T062000
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:0aab8200e920d0ddf3f2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Default start: 6:00 AM. Move it to any time that suits you: op
  en the event\, tap Edit\, change the start time\, then choose 'Save for Fu
@@ -60,10 +60,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. Unhurried breakfast
-DTSTART:20261102T063000
-DTEND:20261102T064000
-DTSTAMP:20261016T120000Z
-UID:433391dfbc33c3598084@celestialprintcanada
+DTSTART:20261005T063000
+DTEND:20261005T064000
+DTSTAMP:20261018T120000Z
+UID:c212b7704a5346512f74@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Pick from the plan. Warm drink.\n\nDefault start: 6:00 AM. Mov
  e it to any time that suits you: open the event\, tap Edit\, change the st
@@ -74,10 +74,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Journal + intention
-DTSTART:20261102T064000
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:3e31b13f23869a499136@celestialprintcanada
+DTSTART:20261005T064000
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:33d9fc1361d14e079e99@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:2 lines: how I feel\, what matters today.\n\nDefault start: 6:
  00 AM. Move it to any time that suits you: open the event\, tap Edit\, cha

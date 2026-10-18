@@ -10,11 +10,12 @@ X-WR-CALDESC:30-minute routine. Daily. Default start: 6:00 AM. Move it to
  new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Morning Routine 30 min (Energizing)
 BEGIN:VEVENT
-SUMMARY:Morning Routine 30 min (Energizing)
-DTSTART:20261102T060000
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:ca4b2a2c71e87d689d64@celestialprintcanada
+SUMMARY:Morning Routine 30 min (Energizing): water\, workout\, shower\, br
+ eakfast\, top 3
+DTSTART:20261005T060000
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:3770f20e79795659a315@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Wake + water (2 min) - Feet on the floor\, lights on\, drin
  k a full glass of water.\n2. Workout (10 min) - 10-min no-equipment circui

@@ -14,10 +14,10 @@ X-WR-CALDESC:One extra task a week, in place of part of that day's zone. D
 X-WR-CALNAME:Home Reset: Monthly Rotation
 BEGIN:VEVENT
 SUMMARY:Monthly task: Oven (Hack 3)
-DTSTART:20261102T183500
-DTEND:20261102T185000
-DTSTAMP:20261016T120000Z
-UID:dff2d3d90b2b5285e9d0@celestialprintcanada
+DTSTART:20260302T183500
+DTEND:20260302T185000
+DTSTAMP:20261018T120000Z
+UID:6f06d5ad90228bb0ddee@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1MO
 DESCRIPTION:Monthly Rotation\, Week 1\, Kitchen column. Do this in place o
  f part of today's zone\, so you still stop at 20 minutes.\n\nSpread baking
@@ -43,10 +43,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Range hood filter (Hack 13)
-DTSTART:20261109T183500
-DTEND:20261109T185000
-DTSTAMP:20261016T120000Z
-UID:76f7e049f8e73ccba47c@celestialprintcanada
+DTSTART:20260309T183500
+DTEND:20260309T185000
+DTSTAMP:20261018T120000Z
+UID:02bca37d0abd5cdf75c4@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2MO
 DESCRIPTION:Monthly Rotation\, Week 2\, Kitchen column. Do this in place o
  f part of today's zone\, so you still stop at 20 minutes.\n\nPop out the m
@@ -70,10 +70,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Dishwasher filter (Hack 15)
-DTSTART:20261116T183500
-DTEND:20261116T185000
-DTSTAMP:20261016T120000Z
-UID:34237e87d4aa819873ae@celestialprintcanada
+DTSTART:20260316T183500
+DTEND:20260316T185000
+DTSTAMP:20261018T120000Z
+UID:d14d5acbc96a76d0f140@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3MO
 DESCRIPTION:Monthly Rotation\, Week 3\, Kitchen column. Do this in place o
  f part of today's zone\, so you still stop at 20 minutes.\n\nCheck your ma
@@ -96,10 +96,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Fridge clear-out
-DTSTART:20261123T183500
-DTEND:20261123T185000
-DTSTAMP:20261016T120000Z
-UID:52c6eb7267c0ee203db8@celestialprintcanada
+DTSTART:20260323T183500
+DTEND:20260323T185000
+DTSTAMP:20261018T120000Z
+UID:a413ede572018709f935@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4MO
 DESCRIPTION:Monthly Rotation\, Week 4\, Kitchen column. Do this in place o
  f part of today's zone\, so you still stop at 20 minutes.\n\nClear out the
@@ -121,10 +121,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Grout (Hack 18)
-DTSTART:20261201T183500
-DTEND:20261201T185000
-DTSTAMP:20261016T120000Z
-UID:a9b31a8495bf83befc3f@celestialprintcanada
+DTSTART:20260407T183500
+DTEND:20260407T185000
+DTSTAMP:20261018T120000Z
+UID:971bcb1c8f28e67e49dd@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1TU
 DESCRIPTION:Monthly Rotation\, Week 1\, Bathroom column. Do this in place 
  of part of today's zone\, so you still stop at 20 minutes.\n\nSpread bakin
@@ -148,10 +148,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Showerhead (Hack 20)
-DTSTART:20261208T183500
-DTEND:20261208T185000
-DTSTAMP:20261016T120000Z
-UID:6b826f72608f2f9ad8a6@celestialprintcanada
+DTSTART:20260414T183500
+DTEND:20260414T185000
+DTSTAMP:20261018T120000Z
+UID:82ef47980141ba7f55a3@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2TU
 DESCRIPTION:Monthly Rotation\, Week 2\, Bathroom column. Do this in place 
  of part of today's zone\, so you still stop at 20 minutes.\n\nFill a zip-t
@@ -176,10 +176,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Drains freshen (Hack 23)
-DTSTART:20261215T183500
-DTEND:20261215T185000
-DTSTAMP:20261016T120000Z
-UID:b4210c2bf3e2dbec5c2c@celestialprintcanada
+DTSTART:20260421T183500
+DTEND:20260421T185000
+DTSTAMP:20261018T120000Z
+UID:22ced6e37537335733c5@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3TU
 DESCRIPTION:Monthly Rotation\, Week 3\, Bathroom column. Do this in place 
  of part of today's zone\, so you still stop at 20 minutes.\n\n1/2 cup baki
@@ -203,10 +203,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Bath mats + shower curtain
-DTSTART:20261222T183500
-DTEND:20261222T185000
-DTSTAMP:20261016T120000Z
-UID:2adcdd2bb27894bd1bc5@celestialprintcanada
+DTSTART:20260428T183500
+DTEND:20260428T185000
+DTSTAMP:20261018T120000Z
+UID:c9bb8a23e4524fbc7ec5@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4TU
 DESCRIPTION:Monthly Rotation\, Week 4\, Bathroom column. Do this in place 
  of part of today's zone\, so you still stop at 20 minutes.\n\nWash the bat
@@ -228,10 +228,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Ceiling fans (Hack 26)
-DTSTART:20270106T183500
-DTEND:20270106T185000
-DTSTAMP:20261016T120000Z
-UID:67b87a0fc3dc9444b42e@celestialprintcanada
+DTSTART:20260506T183500
+DTEND:20260506T185000
+DTSTAMP:20261018T120000Z
+UID:f6f6ff2465c7e556e7f8@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1WE
 DESCRIPTION:Monthly Rotation\, Week 1\, Living column. Do this in place of
   part of today's zone\, so you still stop at 20 minutes.\n\nFan off. Slide
@@ -254,10 +254,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Mirrors & windows (Hack 22)
-DTSTART:20270113T183500
-DTEND:20270113T185000
-DTSTAMP:20261016T120000Z
-UID:4140d2681541a2e355f2@celestialprintcanada
+DTSTART:20260513T183500
+DTEND:20260513T185000
+DTSTAMP:20261018T120000Z
+UID:4ac9aefcb07f54c3dd7e@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2WE
 DESCRIPTION:Monthly Rotation\, Week 2\, Living column. Do this in place of
   part of today's zone\, so you still stop at 20 minutes.\n\nSpray 1:1 vine
@@ -280,10 +280,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Carpet deodorize (Hack 25)
-DTSTART:20270120T183500
-DTEND:20270120T185000
-DTSTAMP:20261016T120000Z
-UID:b40400989dcc5e00dd49@celestialprintcanada
+DTSTART:20260520T183500
+DTEND:20260520T185000
+DTSTAMP:20261018T120000Z
+UID:da1d01da1bae2685c344@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3WE
 DESCRIPTION:Monthly Rotation\, Week 3\, Living column. Do this in place of
   part of today's zone\, so you still stop at 20 minutes.\n\nVacuum\, sprin
@@ -306,10 +306,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Baseboards + vents
-DTSTART:20270127T183500
-DTEND:20270127T185000
-DTSTAMP:20261016T120000Z
-UID:8e9e249896efa93bb3ac@celestialprintcanada
+DTSTART:20260527T183500
+DTEND:20260527T185000
+DTSTAMP:20261018T120000Z
+UID:b487a256192c4d17c004@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4WE
 DESCRIPTION:Monthly Rotation\, Week 4\, Living column. Do this in place of
   part of today's zone\, so you still stop at 20 minutes.\n\nWipe the baseb
@@ -331,10 +331,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Mattress freshen (Hack 24)
-DTSTART:20270205T183500
-DTEND:20270205T185000
-DTSTAMP:20261016T120000Z
-UID:142155ede81924eef54c@celestialprintcanada
+DTSTART:20260605T183500
+DTEND:20260605T185000
+DTSTAMP:20261018T120000Z
+UID:dc4037d6f95d77018f15@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1FR
 DESCRIPTION:Monthly Rotation\, Week 1\, Bedroom & laundry column. Do this 
  in place of part of today's zone\, so you still stop at 20 minutes.\n\nStr
@@ -358,10 +358,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Washer clean cycle (Hack 28)
-DTSTART:20270212T183500
-DTEND:20270212T185000
-DTSTAMP:20261016T120000Z
-UID:3bb36d30249fe0ca8e81@celestialprintcanada
+DTSTART:20260612T183500
+DTEND:20260612T185000
+DTSTAMP:20261018T120000Z
+UID:481041a9a1a4efbcd27b@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2FR
 DESCRIPTION:Monthly Rotation\, Week 2\, Bedroom & laundry column. Do this 
  in place of part of today's zone\, so you still stop at 20 minutes.\n\nWip
@@ -385,10 +385,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Wash pillows/duvet
-DTSTART:20270219T183500
-DTEND:20270219T185000
-DTSTAMP:20261016T120000Z
-UID:9740a39e89eba8c1e912@celestialprintcanada
+DTSTART:20260619T183500
+DTEND:20260619T185000
+DTSTAMP:20261018T120000Z
+UID:009c3eb0e4031e1bd24a@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3FR
 DESCRIPTION:Monthly Rotation\, Week 3\, Bedroom & laundry column. Do this 
  in place of part of today's zone\, so you still stop at 20 minutes.\n\nWas
@@ -410,10 +410,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Monthly task: Closet declutter
-DTSTART:20270226T183500
-DTEND:20270226T185000
-DTSTAMP:20261016T120000Z
-UID:66910c5be2e951f48a4b@celestialprintcanada
+DTSTART:20260626T183500
+DTEND:20260626T185000
+DTSTAMP:20261018T120000Z
+UID:4b7219bbe999a01955f3@celestialprintcanada
 RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4FR
 DESCRIPTION:Monthly Rotation\, Week 4\, Bedroom & laundry column. Do this 
  in place of part of today's zone\, so you still stop at 20 minutes.\n\n10-

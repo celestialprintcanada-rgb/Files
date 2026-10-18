@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Set
 X-WR-CALNAME:Shift Worker Wake-Up Routine 30 min (any hour) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake + water + bright light
-DTSTART:20261102T060000
-DTEND:20261102T060200
-DTSTAMP:20261016T120000Z
-UID:b4017dd5d31e256eb040@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060200
+DTSTAMP:20261018T120000Z
+UID:8d229736993203dee548@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Turn on bright lights right away\, whatever the hour. Drink wa
  ter.\n\nDefault start: 6:00 AM. Set it to the time you usually wake up for
@@ -32,10 +32,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout
-DTSTART:20261102T060200
-DTEND:20261102T061200
-DTSTAMP:20261016T120000Z
-UID:32ebf8e3ca8bedbf7976@celestialprintcanada
+DTSTART:20261005T060200
+DTEND:20261005T061200
+DTSTAMP:20261018T120000Z
+UID:022c433ab50109e6b6b6@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:10-min no-equipment circuit: 2 rounds of 45s on/15s off: march
  ing or jogging in place\, squats\, wall or knee push-ups\, glute bridges\,
@@ -48,10 +48,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Shower + uniform
-DTSTART:20261102T061200
-DTEND:20261102T062000
-DTSTAMP:20261016T120000Z
-UID:bf76a25cfa08b9ba7355@celestialprintcanada
+DTSTART:20261005T061200
+DTEND:20261005T062000
+DTSTAMP:20261018T120000Z
+UID:e68b1c46355168a70ca6@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Uniform and bag laid out before you slept.\n\nDefault start: 6
  :00 AM. Set it to the time you usually wake up for a shift. open the event
@@ -63,10 +63,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. First meal
-DTSTART:20261102T062000
-DTEND:20261102T062800
-DTSTAMP:20261016T120000Z
-UID:28520ad9a8e9f622ce02@celestialprintcanada
+DTSTART:20261005T062000
+DTEND:20261005T062800
+DTSTAMP:20261018T120000Z
+UID:cdd1a8a71e35c3690d95@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Count it as breakfast\, whatever the clock says. Pack your shi
  ft snacks.\n\nDefault start: 6:00 AM. Set it to the time you usually wake 
@@ -78,10 +78,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Shift check
-DTSTART:20261102T062800
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:96a38dab9decf420307b@celestialprintcanada
+DTSTART:20261005T062800
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:b20355c5d8466450d26d@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Badge\, keys\, charger\, water bottle\, meals.\n\nDefault star
  t: 6:00 AM. Set it to the time you usually wake up for a shift. open the e

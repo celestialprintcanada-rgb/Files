@@ -10,11 +10,11 @@ X-WR-CALDESC:20-minute routine. Daily. Default start: 9:30 PM. Move it to
  new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Night Routine 20 min
 BEGIN:VEVENT
-SUMMARY:Night Routine 20 min
-DTSTART:20261102T213000
-DTEND:20261102T215000
-DTSTAMP:20261016T120000Z
-UID:607a6faa62007bb223b1@celestialprintcanada
+SUMMARY:Night Routine 20 min: prep tomorrow\, 10-min tidy\, screens off
+DTSTART:20261005T213000
+DTEND:20261005T215000
+DTSTAMP:20261018T120000Z
+UID:2b2d1ca9c4ad0ad9e50b@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Prep for tomorrow (5 min) - Lay out clothes\, pack bag\, ch
  eck tomorrow's calendar.\n2. 10-minute tidy (10 min) - Dishes in\, counter

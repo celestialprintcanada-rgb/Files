@@ -10,10 +10,10 @@ X-WR-CALDESC:Optional daily and weekly nudges. Suggested time only: move i
 X-WR-CALNAME:ADHD Planner Helpers
 BEGIN:VEVENT
 SUMMARY:2-minute morning check-in
-DTSTART:20261102T080000
-DTEND:20261102T080200
-DTSTAMP:20261016T120000Z
-UID:c641215156c0cf4439fa@celestialprintcanada
+DTSTART:20261005T080000
+DTEND:20261005T080200
+DTSTAMP:20261018T120000Z
+UID:882ff1ea6f038d7b2c06@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Energy today: low / ok / high. Pick your top 1-3. Take one 2-m
  inute starter step now.\n\nDefault time: 8:00 AM. Suggested time only: mov
@@ -29,10 +29,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Midday reset nudge
-DTSTART:20261102T123000
-DTEND:20261102T123500
-DTSTAMP:20261016T120000Z
-UID:bcc8186c1781ab90853f@celestialprintcanada
+DTSTART:20261005T123000
+DTEND:20261005T123500
+DTSTAMP:20261018T120000Z
+UID:4d2f593ebcc7b01e10b9@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Water\, snack\, stand up and stretch. Look at your top 3: what
  's the very next tiny step?\n\nDefault time: 12:30 PM. Suggested time only
@@ -48,10 +48,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Evening done list
-DTSTART:20261102T203000
-DTEND:20261102T203500
-DTSTAMP:20261016T120000Z
-UID:c8ee9c1422b0cd874b1b@celestialprintcanada
+DTSTART:20261005T203000
+DTEND:20261005T203500
+DTSTAMP:20261018T120000Z
+UID:615dff4df177093dabf2@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Write 3+ things you DID today (drank water counts). Move anyth
  ing unfinished to tomorrow\, no guilt.\n\nDefault time: 8:30 PM. Suggested
@@ -68,10 +68,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Sunday 10-minute weekly reset
-DTSTART:20261108T190000
-DTEND:20261108T191000
-DTSTAMP:20261016T120000Z
-UID:3f02c85bcf65e7b12c45@celestialprintcanada
+DTSTART:20261011T190000
+DTEND:20261011T191000
+DTSTAMP:20261018T120000Z
+UID:8d5dccf88d7364ecfd81@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=SU
 DESCRIPTION:Brain dump\, check next week's calendar\, pick 3 priorities\, 
  choose one thing to drop.\n\nDefault time: 7:00 PM. Suggested time only: m

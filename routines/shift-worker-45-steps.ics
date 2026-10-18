@@ -11,10 +11,10 @@ X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Set
 X-WR-CALNAME:Shift Worker Wake-Up Routine 45 min (any hour) (step by step)
 BEGIN:VEVENT
 SUMMARY:1. Wake + water + bright light
-DTSTART:20261102T060000
-DTEND:20261102T060300
-DTSTAMP:20261016T120000Z
-UID:2c5354f02e25f3af7143@celestialprintcanada
+DTSTART:20261005T060000
+DTEND:20261005T060300
+DTSTAMP:20261018T120000Z
+UID:a99e9f3198c85a29ee85@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Bright lights on\, water\, open blinds if it's daytime.\n\nDef
  ault start: 6:00 AM. Set it to the time you usually wake up for a shift. o
@@ -32,10 +32,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:2. Workout or walk
-DTSTART:20261102T060300
-DTEND:20261102T061800
-DTSTAMP:20261016T120000Z
-UID:11b32578bedcc86b64db@celestialprintcanada
+DTSTART:20261005T060300
+DTEND:20261005T061800
+DTSTAMP:20261018T120000Z
+UID:6e3db28e4e333a242dad@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:15-min no-equipment circuit: 2-min warm-up march\, then 3 roun
  ds of 40s on/20s off: jumping jacks or step-jacks\, squats\, push-ups (wal
@@ -49,10 +49,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:3. Shower + uniform
-DTSTART:20261102T061800
-DTEND:20261102T062800
-DTSTAMP:20261016T120000Z
-UID:1ff0a0ac3154a92779cb@celestialprintcanada
+DTSTART:20261005T061800
+DTEND:20261005T062800
+DTSTAMP:20261018T120000Z
+UID:69f7b15759d593ff0e83@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Default start: 6:00 AM. Set it to the time you usually wake up
   for a shift. open the event\, tap Edit\, change the start time\, then cho
@@ -63,10 +63,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:4. First meal + pack meals
-DTSTART:20261102T062800
-DTEND:20261102T064000
-DTSTAMP:20261016T120000Z
-UID:482f7c56407ef5b42c1b@celestialprintcanada
+DTSTART:20261005T062800
+DTEND:20261005T064000
+DTSTAMP:20261018T120000Z
+UID:2c93f193c3c984f959cc@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:A real meal now\; pack 2 snacks and a meal for the shift.\n\nD
  efault start: 6:00 AM. Set it to the time you usually wake up for a shift.
@@ -78,10 +78,10 @@ TRANSP:OPAQUE
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:5. Shift check + plan sleep
-DTSTART:20261102T064000
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:8d62b36223d6a7b321f1@celestialprintcanada
+DTSTART:20261005T064000
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:d6b7049d07d0da6bda1b@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:Badge\, keys\, charger. Note when you'll sleep after this shif
  t.\n\nDefault start: 6:00 AM. Set it to the time you usually wake up for a

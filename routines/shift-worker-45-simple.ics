@@ -10,11 +10,12 @@ X-WR-CALDESC:45-minute routine. Daily. Default start: 6:00 AM. Set it to t
  fore starting a new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Shift Worker Wake-Up Routine 45 min (any hour)
 BEGIN:VEVENT
-SUMMARY:Shift Worker Wake-Up Routine 45 min (any hour)
-DTSTART:20261102T060000
-DTEND:20261102T064500
-DTSTAMP:20261016T120000Z
-UID:6c8220b556f2c283f25a@celestialprintcanada
+SUMMARY:Shift Wake-Up Routine 45 min: water\, workout\, shower\, meals\, s
+ hift check
+DTSTART:20261005T060000
+DTEND:20261005T064500
+DTSTAMP:20261018T120000Z
+UID:17bf7e195c1c3d3b8949@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Wake + water + bright light (3 min) - Bright lights on\, wa
  ter\, open blinds if it's daytime.\n2. Workout or walk (15 min) - 15-min n

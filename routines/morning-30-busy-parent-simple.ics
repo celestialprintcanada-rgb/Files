@@ -10,11 +10,12 @@ X-WR-CALDESC:30-minute routine. Daily. Default start: 6:00 AM. Move it to
  new exercise routine. CelestialPrintCanada
 X-WR-CALNAME:Morning Routine 30 min (Busy Parent)
 BEGIN:VEVENT
-SUMMARY:Morning Routine 30 min (Busy Parent)
-DTSTART:20261102T060000
-DTEND:20261102T063000
-DTSTAMP:20261016T120000Z
-UID:b4f0aef0aab61d640058@celestialprintcanada
+SUMMARY:Morning Routine 30 min (Busy Parent): water\, workout\, get ready
+ \, breakfast\, out
+DTSTART:20261005T060000
+DTEND:20261005T063000
+DTSTAMP:20261018T120000Z
+UID:c384c698445e8aea3385@celestialprintcanada
 RRULE:FREQ=DAILY
 DESCRIPTION:1. Wake before the kids + water (2 min) - Even 2 quiet minutes
   count. Drink water.\n2. Workout (10 min) - 10-min do-it-anywhere moves: s

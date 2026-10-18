@@ -14,10 +14,10 @@ X-WR-CALDESC:5-minute Daily Reset + one 10-15 minute zone, Monday to Frida
 X-WR-CALNAME:Home Reset: Weekday Schedule
 BEGIN:VEVENT
 SUMMARY:Home Reset: Kitchen
-DTSTART:20261102T183000
-DTEND:20261102T185000
-DTSTAMP:20261016T120000Z
-UID:ab92d6288f3c296bbd87@celestialprintcanada
+DTSTART:20261005T183000
+DTEND:20261005T185000
+DTSTAMP:20261018T120000Z
+UID:3d6aa7baa9e8824e7512@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=MO
 DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
  \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
@@ -43,10 +43,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Home Reset: Bathrooms
-DTSTART:20261103T183000
-DTEND:20261103T185000
-DTSTAMP:20261016T120000Z
-UID:77535f96eda8ccc5e415@celestialprintcanada
+DTSTART:20261006T183000
+DTEND:20261006T185000
+DTSTAMP:20261018T120000Z
+UID:1982ad8b348df5f77b95@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=TU
 DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
  \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
@@ -71,10 +71,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Home Reset: Dust & surfaces
-DTSTART:20261104T183000
-DTEND:20261104T185000
-DTSTAMP:20261016T120000Z
-UID:42e796ee36b89787d44c@celestialprintcanada
+DTSTART:20261007T183000
+DTEND:20261007T185000
+DTSTAMP:20261018T120000Z
+UID:5093a075aef31f894771@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=WE
 DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
  \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
@@ -100,10 +100,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Home Reset: Floors
-DTSTART:20261105T183000
-DTEND:20261105T185000
-DTSTAMP:20261016T120000Z
-UID:ead009bc315988645625@celestialprintcanada
+DTSTART:20261008T183000
+DTEND:20261008T185000
+DTSTAMP:20261018T120000Z
+UID:c2a476ef2ed59beead21@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=TH
 DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
  \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
@@ -128,10 +128,10 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 SUMMARY:Home Reset: Bedrooms & laundry
-DTSTART:20261106T183000
-DTEND:20261106T185000
-DTSTAMP:20261016T120000Z
-UID:8e233a117d7dabb2bee6@celestialprintcanada
+DTSTART:20261009T183000
+DTEND:20261009T185000
+DTSTAMP:20261018T120000Z
+UID:f2f2fc0121ab0993090e@celestialprintcanada
 RRULE:FREQ=WEEKLY;BYDAY=FR
 DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
  \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
