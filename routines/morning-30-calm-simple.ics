@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:30-minute routine. Daily. Default start: 6:00 AM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 30 min (Calm)
+BEGIN:VEVENT
+SUMMARY:Morning Routine 30 min (Calm)
+DTSTART:20261102T060000
+DTEND:20261102T063000
+DTSTAMP:20261016T120000Z
+UID:9d8bb4693005a00975cb@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake slowly + water (3 min) - Open the blinds\, drink a gla
+ ss of water\, 5 slow breaths.\n2. Gentle movement (10 min) - 10-min gentle
+  flow: neck and shoulder rolls\, cat-cow\, hip circles\, slow squats\, sta
+ nding forward fold\, 5 slow breaths.\n3. Shower + get ready (7 min) - Warm
+  shower\, dress in what you laid out.\n4. Calm breakfast (8 min) - Pick fr
+ om your breakfast plan. No phone while you eat if you can.\n5. One intenti
+ on (2 min) - One word or line for the day. Then go.\n\nDefault start: 6:00
+  AM. Move it to any time that suits you: open the event\, tap Edit\, chang
+ e the start time\, then choose 'Save for Future Events' (iPhone) or 'This 
+ and following events' (Google). Not medical advice. Check with your doctor
+  before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Morning Routine 30 min (Calm)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

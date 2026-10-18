@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:45-minute routine. Daily. Default start: 6:00 AM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 45 min (Energizing)
+BEGIN:VEVENT
+SUMMARY:Morning Routine 45 min (Energizing)
+DTSTART:20261102T060000
+DTEND:20261102T064500
+DTSTAMP:20261016T120000Z
+UID:257c5f7a9fd9b70e7504@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake + water + daylight (3 min) - Lights on or step outside
+ \, drink a full glass of water.\n2. Workout (15 min) - 15-min no-equipment
+  circuit: 2-min warm-up march\, then 3 rounds of 40s on/20s off: jumping j
+ acks or step-jacks\, squats\, push-ups (wall/knee ok)\, reverse lunges (12
+  min)\, then 1 min stretch.\n3. Shower + get dressed (10 min)\n4. Breakfas
+ t (12 min) - Pick from your 7-day plan. Pack your snack or lunch.\n5. Plan
+  the day (5 min) - Top 3\, check the calendar\, tidy one surface on the wa
+ y out.\n\nDefault start: 6:00 AM. Move it to any time that suits you: open
+  the event\, tap Edit\, change the start time\, then choose 'Save for Futu
+ re Events' (iPhone) or 'This and following events' (Google). Not medical a
+ dvice. Check with your doctor before starting a new exercise routine. Cele
+ stialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Morning Routine 45 min (Energizing)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

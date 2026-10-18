@@ -1,0 +1,158 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:5-minute Daily Reset + one 10-15 minute zone, Monday to Frida
+ y. Default time: 6:30 PM, Monday to Friday (monthly and seasonal tasks sit
+  inside that block at 6:35 PM). Move it to any time that suits you: open a
+ n event, tap Edit, change the time, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Safety: test any hack on 
+ a small hidden spot first, never mix bleach with vinegar or ammonia, and k
+ eep vinegar and lemon off natural stone. Full safety notes are on page 3 o
+ f your guide. CelestialPrintCanada
+X-WR-CALNAME:Home Reset: Weekday Schedule
+BEGIN:VEVENT
+SUMMARY:Home Reset: Kitchen
+DTSTART:20261102T183000
+DTEND:20261102T185000
+DTSTAMP:20261016T120000Z
+UID:ab92d6288f3c296bbd87@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min KITCHEN (pick what fits): Wipe cabinet fronts and handles. Clean the 
+ microwave (lemon steam\, Hack 6). Wipe the sink and faucet. Wipe appliance
+  fronts (Hack 14). Shake out the mat. Toss old leftovers.\n\nSet a timer. 
+ When it rings\, stop. Done enough is done.\n\nDefault time: 6:30 PM\, Mond
+ ay to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM)
+ . Move it to any time that suits you: open an event\, tap Edit\, change th
+ e time\, then choose 'Save for Future Events' (iPhone) or 'This and follow
+ ing events' (Google). Safety: test any hack on a small hidden spot first\,
+  never mix bleach with vinegar or ammonia\, and keep vinegar and lemon off
+  natural stone. Full safety notes are on page 3 of your guide. CelestialPr
+ intCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Kitchen today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Bathrooms
+DTSTART:20261103T183000
+DTEND:20261103T185000
+DTSTAMP:20261016T120000Z
+UID:77535f96eda8ccc5e415@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min BATHROOMS (pick what fits): Toilet inside and out. Sink\, faucet and 
+ mirror (Hack 22). Shower/tub quick scrub (Hack 19). Swap towels. Empty the
+  trash can. Quick floor wipe.\n\nSet a timer. When it rings\, stop. Done e
+ nough is done.\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and se
+ asonal tasks sit inside that block at 6:35 PM). Move it to any time that s
+ uits you: open an event\, tap Edit\, change the time\, then choose 'Save f
+ or Future Events' (iPhone) or 'This and following events' (Google). Safety
+ : test any hack on a small hidden spot first\, never mix bleach with vineg
+ ar or ammonia\, and keep vinegar and lemon off natural stone. Full safety 
+ notes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Bathrooms today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Dust & surfaces
+DTSTART:20261104T183000
+DTEND:20261104T185000
+DTSTAMP:20261016T120000Z
+UID:42e796ee36b89787d44c@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min DUST & SURFACES (pick what fits): Living areas: dust high to low (she
+ lves\, TV stand\, frames). Wipe light switches\, door handles\, remotes. F
+ luff and straighten cushions. Pet hair on the couch (Hack 27). Clear the c
+ offee table.\n\nSet a timer. When it rings\, stop. Done enough is done.\n
+ \nDefault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit
+  inside that block at 6:35 PM). Move it to any time that suits you: open a
+ n event\, tap Edit\, change the time\, then choose 'Save for Future Events
+ ' (iPhone) or 'This and following events' (Google). Safety: test any hack 
+ on a small hidden spot first\, never mix bleach with vinegar or ammonia\, 
+ and keep vinegar and lemon off natural stone. Full safety notes are on pag
+ e 3 of your guide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Dust & surfaces today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Floors
+DTSTART:20261105T183000
+DTEND:20261105T185000
+DTSTAMP:20261016T120000Z
+UID:ead009bc315988645625@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min FLOORS (pick what fits): Vacuum high-traffic areas. Mop or damp-wipe 
+ hard floors (Hack 29). Shake out entry mats. Quick under-the-couch sweep.
+ \n\nSet a timer. When it rings\, stop. Done enough is done.\n\nDefault tim
+ e: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside that 
+ block at 6:35 PM). Move it to any time that suits you: open an event\, tap
+  Edit\, change the time\, then choose 'Save for Future Events' (iPhone) or
+  'This and following events' (Google). Safety: test any hack on a small hi
+ dden spot first\, never mix bleach with vinegar or ammonia\, and keep vine
+ gar and lemon off natural stone. Full safety notes are on page 3 of your g
+ uide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Floors today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Bedrooms & laundry
+DTSTART:20261106T183000
+DTEND:20261106T185000
+DTSTAMP:20261016T120000Z
+UID:8e233a117d7dabb2bee6@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min BEDROOMS & LAUNDRY (pick what fits): Change sheets (every 1-2 weeks).
+  Put away clean laundry. Clear nightstands. Wipe the washer door seal (Hac
+ k 28). Fridge check: toss old leftovers and see what you need.\n\nSet a ti
+ mer. When it rings\, stop. Done enough is done.\n\nDefault time: 6:30 PM\,
+  Monday to Friday (monthly and seasonal tasks sit inside that block at 6:3
+ 5 PM). Move it to any time that suits you: open an event\, tap Edit\, chan
+ ge the time\, then choose 'Save for Future Events' (iPhone) or 'This and f
+ ollowing events' (Google). Safety: test any hack on a small hidden spot fi
+ rst\, never mix bleach with vinegar or ammonia\, and keep vinegar and lemo
+ n off natural stone. Full safety notes are on page 3 of your guide. Celest
+ ialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Bedrooms & laundry today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

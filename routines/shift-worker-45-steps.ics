@@ -1,0 +1,94 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Set
+  it to the time you usually wake up for a shift. open the event, tap Edit,
+  change the start time, then choose 'Save for Future Events' (iPhone) or '
+ This and following events' (Google). Not medical advice. Check with your d
+ octor before starting a new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Shift Worker Wake-Up Routine 45 min (any hour) (step by step)
+BEGIN:VEVENT
+SUMMARY:1. Wake + water + bright light
+DTSTART:20261102T060000
+DTEND:20261102T060300
+DTSTAMP:20261016T120000Z
+UID:2c5354f02e25f3af7143@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Bright lights on\, water\, open blinds if it's daytime.\n\nDef
+ ault start: 6:00 AM. Set it to the time you usually wake up for a shift. o
+ pen the event\, tap Edit\, change the start time\, then choose 'Save for F
+ uture Events' (iPhone) or 'This and following events' (Google). Not medica
+ l advice. Check with your doctor before starting a new exercise routine. C
+ elestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Shift Worker Wake-Up Routine 45 min (any hour): start with Wak
+ e + water + bright light
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Workout or walk
+DTSTART:20261102T060300
+DTEND:20261102T061800
+DTSTAMP:20261016T120000Z
+UID:11b32578bedcc86b64db@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:15-min no-equipment circuit: 2-min warm-up march\, then 3 roun
+ ds of 40s on/20s off: jumping jacks or step-jacks\, squats\, push-ups (wal
+ l/knee ok)\, reverse lunges (12 min)\, then 1 min stretch.\n\nDefault star
+ t: 6:00 AM. Set it to the time you usually wake up for a shift. open the e
+ vent\, tap Edit\, change the start time\, then choose 'Save for Future Eve
+ nts' (iPhone) or 'This and following events' (Google). Not medical advice.
+  Check with your doctor before starting a new exercise routine. CelestialP
+ rintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Shower + uniform
+DTSTART:20261102T061800
+DTEND:20261102T062800
+DTSTAMP:20261016T120000Z
+UID:1ff0a0ac3154a92779cb@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Default start: 6:00 AM. Set it to the time you usually wake up
+  for a shift. open the event\, tap Edit\, change the start time\, then cho
+ ose 'Save for Future Events' (iPhone) or 'This and following events' (Goog
+ le). Not medical advice. Check with your doctor before starting a new exer
+ cise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. First meal + pack meals
+DTSTART:20261102T062800
+DTEND:20261102T064000
+DTSTAMP:20261016T120000Z
+UID:482f7c56407ef5b42c1b@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:A real meal now\; pack 2 snacks and a meal for the shift.\n\nD
+ efault start: 6:00 AM. Set it to the time you usually wake up for a shift.
+  open the event\, tap Edit\, change the start time\, then choose 'Save for
+  Future Events' (iPhone) or 'This and following events' (Google). Not medi
+ cal advice. Check with your doctor before starting a new exercise routine.
+  CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Shift check + plan sleep
+DTSTART:20261102T064000
+DTEND:20261102T064500
+DTSTAMP:20261016T120000Z
+UID:8d62b36223d6a7b321f1@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Badge\, keys\, charger. Note when you'll sleep after this shif
+ t.\n\nDefault start: 6:00 AM. Set it to the time you usually wake up for a
+  shift. open the event\, tap Edit\, change the start time\, then choose 'S
+ ave for Future Events' (iPhone) or 'This and following events' (Google). N
+ ot medical advice. Check with your doctor before starting a new exercise r
+ outine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

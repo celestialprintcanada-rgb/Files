@@ -1,0 +1,92 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Each step as its own daily event. Default start: 6:00 AM. Mov
+ e it to any time that suits you: open the event, tap Edit, change the star
+ t time, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Not medical advice. Check with your doctor before sta
+ rting a new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 45 min (Energizing) (step by step)
+BEGIN:VEVENT
+SUMMARY:1. Wake + water + daylight
+DTSTART:20261102T060000
+DTEND:20261102T060300
+DTSTAMP:20261016T120000Z
+UID:92284e5de17ee08cb98d@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Lights on or step outside\, drink a full glass of water.\n\nDe
+ fault start: 6:00 AM. Move it to any time that suits you: open the event\,
+  tap Edit\, change the start time\, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Not medical advice. Check
+  with your doctor before starting a new exercise routine. CelestialPrintCa
+ nada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Morning Routine 45 min (Energizing): start with Wake + water +
+  daylight
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Workout
+DTSTART:20261102T060300
+DTEND:20261102T061800
+DTSTAMP:20261016T120000Z
+UID:caefa57eeae5a2549201@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:15-min no-equipment circuit: 2-min warm-up march\, then 3 roun
+ ds of 40s on/20s off: jumping jacks or step-jacks\, squats\, push-ups (wal
+ l/knee ok)\, reverse lunges (12 min)\, then 1 min stretch.\n\nDefault star
+ t: 6:00 AM. Move it to any time that suits you: open the event\, tap Edit
+ \, change the start time\, then choose 'Save for Future Events' (iPhone) o
+ r 'This and following events' (Google). Not medical advice. Check with you
+ r doctor before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Shower + get dressed
+DTSTART:20261102T061800
+DTEND:20261102T062800
+DTSTAMP:20261016T120000Z
+UID:013106df88705632307b@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Default start: 6:00 AM. Move it to any time that suits you: op
+ en the event\, tap Edit\, change the start time\, then choose 'Save for Fu
+ ture Events' (iPhone) or 'This and following events' (Google). Not medical
+  advice. Check with your doctor before starting a new exercise routine. Ce
+ lestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Breakfast
+DTSTART:20261102T062800
+DTEND:20261102T064000
+DTSTAMP:20261016T120000Z
+UID:62689d827b83da5a6935@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Pick from your 7-day plan. Pack your snack or lunch.\n\nDefaul
+ t start: 6:00 AM. Move it to any time that suits you: open the event\, tap
+  Edit\, change the start time\, then choose 'Save for Future Events' (iPho
+ ne) or 'This and following events' (Google). Not medical advice. Check wit
+ h your doctor before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Plan the day
+DTSTART:20261102T064000
+DTEND:20261102T064500
+DTSTAMP:20261016T120000Z
+UID:58972c166267793ad41e@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Top 3\, check the calendar\, tidy one surface on the way out.
+ \n\nDefault start: 6:00 AM. Move it to any time that suits you: open the e
+ vent\, tap Edit\, change the start time\, then choose 'Save for Future Eve
+ nts' (iPhone) or 'This and following events' (Google). Not medical advice.
+  Check with your doctor before starting a new exercise routine. CelestialP
+ rintCanada
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

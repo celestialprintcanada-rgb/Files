@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:45-minute routine. Daily. Default start: 6:00 AM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 45 min (Busy Parent)
+BEGIN:VEVENT
+SUMMARY:Morning Routine 45 min (Busy Parent)
+DTSTART:20261102T060000
+DTEND:20261102T064500
+DTSTAMP:20261016T120000Z
+UID:96cabd4b130d0f592ea7@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake before the kids + water (5 min) - Quiet coffee or tea
+ \, water first.\n2. Workout (12 min) - 12-min no-equipment circuit: squats
+ \, wall push-ups\, lunges\, glute bridges\, plank. Kids welcome to join.\n
+ 3. Get ready (8 min)\n4. Family breakfast (12 min) - From the plan. Kids h
+ elp set out bowls.\n5. Out-the-door check (8 min) - Bags\, lunches\, keys
+ \, forms\, weather gear. 2-min wipe of the counter.\n\nDefault start: 6:00
+  AM. Move it to any time that suits you: open the event\, tap Edit\, chang
+ e the start time\, then choose 'Save for Future Events' (iPhone) or 'This 
+ and following events' (Google). Not medical advice. Check with your doctor
+  before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Morning Routine 45 min (Busy Parent)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

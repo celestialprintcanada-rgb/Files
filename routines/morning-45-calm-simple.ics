@@ -1,0 +1,36 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:45-minute routine. Daily. Default start: 6:00 AM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 45 min (Calm)
+BEGIN:VEVENT
+SUMMARY:Morning Routine 45 min (Calm)
+DTSTART:20261102T060000
+DTEND:20261102T064500
+DTSTAMP:20261016T120000Z
+UID:a8b745dd3596315a1767@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake slowly + water (5 min) - Blinds open\, water\, sit for
+  5 slow breaths.\n2. Calm movement (15 min) - 15-min calm movement: 10-min
+  brisk walk (outside if you can\, for daylight) or gentle stretch flow\, t
+ hen 5 min easy stretching.\n3. Shower + get ready (10 min)\n4. Unhurried b
+ reakfast (10 min) - Pick from the plan. Warm drink.\n5. Journal + intentio
+ n (5 min) - 2 lines: how I feel\, what matters today.\n\nDefault start: 6:
+ 00 AM. Move it to any time that suits you: open the event\, tap Edit\, cha
+ nge the start time\, then choose 'Save for Future Events' (iPhone) or 'Thi
+ s and following events' (Google). Not medical advice. Check with your doct
+ or before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Morning Routine 45 min (Calm)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

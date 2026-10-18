@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Suggested time only: move it to whenever suits you. Optional 
+ helper: keep the ones that help, delete the rest, no guilt. Edit and choos
+ e 'Save for future events' / 'This and following events'. Not medical advi
+ ce. CelestialPrintCanada
+X-WR-CALNAME:ADHD Planner: Sunday 10-minute weekly reset
+BEGIN:VEVENT
+SUMMARY:Sunday 10-minute weekly reset
+DTSTART:20261108T190000
+DTEND:20261108T191000
+DTSTAMP:20261016T120000Z
+UID:3f02c85bcf65e7b12c45@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Brain dump\, check next week's calendar\, pick 3 priorities\, 
+ choose one thing to drop.\n\nDefault time: 7:00 PM. Suggested time only: m
+ ove it to whenever suits you. Optional helper: keep the ones that help\, d
+ elete the rest\, no guilt. Edit and choose 'Save for future events' / 'Thi
+ s and following events'. Not medical advice. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sunday 10-minute weekly reset
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:30-minute routine. Daily. Default start: 6:00 AM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Morning Routine 30 min (Busy Parent)
+BEGIN:VEVENT
+SUMMARY:Morning Routine 30 min (Busy Parent)
+DTSTART:20261102T060000
+DTEND:20261102T063000
+DTSTAMP:20261016T120000Z
+UID:b4f0aef0aab61d640058@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake before the kids + water (2 min) - Even 2 quiet minutes
+  count. Drink water.\n2. Workout (10 min) - 10-min do-it-anywhere moves: s
+ quats while the kettle boils\, wall push-ups\, calf raises\, and a dance s
+ ong with the kids.\n3. Quick get-ready (6 min) - Fast wash\, dress in what
+  you laid out.\n4. Family breakfast + lunches out (8 min) - Grab-and-go op
+ tions from the plan\; lunches were packed last night.\n5. Out-the-door che
+ ck (4 min) - Bags\, keys\, phone\, lunches\, permission slips. Shoes on.\n
+ \nDefault start: 6:00 AM. Move it to any time that suits you: open the eve
+ nt\, tap Edit\, change the start time\, then choose 'Save for Future Event
+ s' (iPhone) or 'This and following events' (Google). Not medical advice. C
+ heck with your doctor before starting a new exercise routine. CelestialPri
+ ntCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Morning Routine 30 min (Busy Parent)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

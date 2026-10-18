@@ -1,0 +1,88 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Optional daily and weekly nudges. Suggested time only: move i
+ t to whenever suits you. Optional helper: keep the ones that help, delete 
+ the rest, no guilt. Edit and choose 'Save for future events' / 'This and f
+ ollowing events'. Not medical advice. CelestialPrintCanada
+X-WR-CALNAME:ADHD Planner Helpers
+BEGIN:VEVENT
+SUMMARY:2-minute morning check-in
+DTSTART:20261102T080000
+DTEND:20261102T080200
+DTSTAMP:20261016T120000Z
+UID:c641215156c0cf4439fa@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Energy today: low / ok / high. Pick your top 1-3. Take one 2-m
+ inute starter step now.\n\nDefault time: 8:00 AM. Suggested time only: mov
+ e it to whenever suits you. Optional helper: keep the ones that help\, del
+ ete the rest\, no guilt. Edit and choose 'Save for future events' / 'This 
+ and following events'. Not medical advice. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:2-minute morning check-in
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Midday reset nudge
+DTSTART:20261102T123000
+DTEND:20261102T123500
+DTSTAMP:20261016T120000Z
+UID:bcc8186c1781ab90853f@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Water\, snack\, stand up and stretch. Look at your top 3: what
+ 's the very next tiny step?\n\nDefault time: 12:30 PM. Suggested time only
+ : move it to whenever suits you. Optional helper: keep the ones that help
+ \, delete the rest\, no guilt. Edit and choose 'Save for future events' / 
+ 'This and following events'. Not medical advice. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Midday reset nudge
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Evening done list
+DTSTART:20261102T203000
+DTEND:20261102T203500
+DTSTAMP:20261016T120000Z
+UID:c8ee9c1422b0cd874b1b@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Write 3+ things you DID today (drank water counts). Move anyth
+ ing unfinished to tomorrow\, no guilt.\n\nDefault time: 8:30 PM. Suggested
+  time only: move it to whenever suits you. Optional helper: keep the ones 
+ that help\, delete the rest\, no guilt. Edit and choose 'Save for future e
+ vents' / 'This and following events'. Not medical advice. CelestialPrintCa
+ nada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Evening done list
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Sunday 10-minute weekly reset
+DTSTART:20261108T190000
+DTEND:20261108T191000
+DTSTAMP:20261016T120000Z
+UID:3f02c85bcf65e7b12c45@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=SU
+DESCRIPTION:Brain dump\, check next week's calendar\, pick 3 priorities\, 
+ choose one thing to drop.\n\nDefault time: 7:00 PM. Suggested time only: m
+ ove it to whenever suits you. Optional helper: keep the ones that help\, d
+ elete the rest\, no guilt. Edit and choose 'Save for future events' / 'Thi
+ s and following events'. Not medical advice. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Sunday 10-minute weekly reset
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

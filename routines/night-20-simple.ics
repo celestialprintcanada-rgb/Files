@@ -1,0 +1,35 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:20-minute routine. Daily. Default start: 9:30 PM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Night Routine 20 min
+BEGIN:VEVENT
+SUMMARY:Night Routine 20 min
+DTSTART:20261102T213000
+DTEND:20261102T215000
+DTSTAMP:20261016T120000Z
+UID:607a6faa62007bb223b1@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Prep for tomorrow (5 min) - Lay out clothes\, pack bag\, ch
+ eck tomorrow's calendar.\n2. 10-minute tidy (10 min) - Dishes in\, counter
+ s wiped\, things back where they live. Timer on\, stop when it rings.\n3. 
+ Screens off + into bed (5 min) - Phone on the charger away from the bed. L
+ ights low.\n\nDefault start: 9:30 PM. Move it to any time that suits you: 
+ open the event\, tap Edit\, change the start time\, then choose 'Save for 
+ Future Events' (iPhone) or 'This and following events' (Google). Not medic
+ al advice. Check with your doctor before starting a new exercise routine. 
+ CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Night Routine 20 min
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

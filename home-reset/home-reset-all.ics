@@ -1,0 +1,691 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:15-20 minutes a day, Monday to Friday, plus one Monthly Rotat
+ ion task a week and 4 seasonal resets a year. Default time: 6:30 PM, Monda
+ y to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM).
+  Move it to any time that suits you: open an event, tap Edit, change the t
+ ime, then choose 'Save for Future Events' (iPhone) or 'This and following 
+ events' (Google). Safety: test any hack on a small hidden spot first, neve
+ r mix bleach with vinegar or ammonia, and keep vinegar and lemon off natur
+ al stone. Full safety notes are on page 3 of your guide. CelestialPrintCan
+ ada
+X-WR-CALNAME:Home Reset Cleaning Schedule
+BEGIN:VEVENT
+SUMMARY:Home Reset: Kitchen
+DTSTART:20261102T183000
+DTEND:20261102T185000
+DTSTAMP:20261016T120000Z
+UID:ab92d6288f3c296bbd87@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=MO
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min KITCHEN (pick what fits): Wipe cabinet fronts and handles. Clean the 
+ microwave (lemon steam\, Hack 6). Wipe the sink and faucet. Wipe appliance
+  fronts (Hack 14). Shake out the mat. Toss old leftovers.\n\nSet a timer. 
+ When it rings\, stop. Done enough is done.\n\nDefault time: 6:30 PM\, Mond
+ ay to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM)
+ . Move it to any time that suits you: open an event\, tap Edit\, change th
+ e time\, then choose 'Save for Future Events' (iPhone) or 'This and follow
+ ing events' (Google). Safety: test any hack on a small hidden spot first\,
+  never mix bleach with vinegar or ammonia\, and keep vinegar and lemon off
+  natural stone. Full safety notes are on page 3 of your guide. CelestialPr
+ intCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Kitchen today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Bathrooms
+DTSTART:20261103T183000
+DTEND:20261103T185000
+DTSTAMP:20261016T120000Z
+UID:77535f96eda8ccc5e415@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=TU
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min BATHROOMS (pick what fits): Toilet inside and out. Sink\, faucet and 
+ mirror (Hack 22). Shower/tub quick scrub (Hack 19). Swap towels. Empty the
+  trash can. Quick floor wipe.\n\nSet a timer. When it rings\, stop. Done e
+ nough is done.\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and se
+ asonal tasks sit inside that block at 6:35 PM). Move it to any time that s
+ uits you: open an event\, tap Edit\, change the time\, then choose 'Save f
+ or Future Events' (iPhone) or 'This and following events' (Google). Safety
+ : test any hack on a small hidden spot first\, never mix bleach with vineg
+ ar or ammonia\, and keep vinegar and lemon off natural stone. Full safety 
+ notes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Bathrooms today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Dust & surfaces
+DTSTART:20261104T183000
+DTEND:20261104T185000
+DTSTAMP:20261016T120000Z
+UID:42e796ee36b89787d44c@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=WE
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min DUST & SURFACES (pick what fits): Living areas: dust high to low (she
+ lves\, TV stand\, frames). Wipe light switches\, door handles\, remotes. F
+ luff and straighten cushions. Pet hair on the couch (Hack 27). Clear the c
+ offee table.\n\nSet a timer. When it rings\, stop. Done enough is done.\n
+ \nDefault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit
+  inside that block at 6:35 PM). Move it to any time that suits you: open a
+ n event\, tap Edit\, change the time\, then choose 'Save for Future Events
+ ' (iPhone) or 'This and following events' (Google). Safety: test any hack 
+ on a small hidden spot first\, never mix bleach with vinegar or ammonia\, 
+ and keep vinegar and lemon off natural stone. Full safety notes are on pag
+ e 3 of your guide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Dust & surfaces today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Floors
+DTSTART:20261105T183000
+DTEND:20261105T185000
+DTSTAMP:20261016T120000Z
+UID:ead009bc315988645625@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=TH
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min FLOORS (pick what fits): Vacuum high-traffic areas. Mop or damp-wipe 
+ hard floors (Hack 29). Shake out entry mats. Quick under-the-couch sweep.
+ \n\nSet a timer. When it rings\, stop. Done enough is done.\n\nDefault tim
+ e: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside that 
+ block at 6:35 PM). Move it to any time that suits you: open an event\, tap
+  Edit\, change the time\, then choose 'Save for Future Events' (iPhone) or
+  'This and following events' (Google). Safety: test any hack on a small hi
+ dden spot first\, never mix bleach with vinegar or ammonia\, and keep vine
+ gar and lemon off natural stone. Full safety notes are on page 3 of your g
+ uide. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Floors today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Home Reset: Bedrooms & laundry
+DTSTART:20261106T183000
+DTEND:20261106T185000
+DTSTAMP:20261016T120000Z
+UID:8e233a117d7dabb2bee6@celestialprintcanada
+RRULE:FREQ=WEEKLY;BYDAY=FR
+DESCRIPTION:5-min Daily Reset: dishes in the dishwasher (or a quick wash)
+ \, wipe the kitchen counters and stovetop\, 2-minute pick-up (anything on 
+ the floor or couch goes back)\, quick swipe of the bathroom sink\, trash o
+ ut if it's full\, start a laundry load if the basket's full.\n\nThen 10-15
+  min BEDROOMS & LAUNDRY (pick what fits): Change sheets (every 1-2 weeks).
+  Put away clean laundry. Clear nightstands. Wipe the washer door seal (Hac
+ k 28). Fridge check: toss old leftovers and see what you need.\n\nSet a ti
+ mer. When it rings\, stop. Done enough is done.\n\nDefault time: 6:30 PM\,
+  Monday to Friday (monthly and seasonal tasks sit inside that block at 6:3
+ 5 PM). Move it to any time that suits you: open an event\, tap Edit\, chan
+ ge the time\, then choose 'Save for Future Events' (iPhone) or 'This and f
+ ollowing events' (Google). Safety: test any hack on a small hidden spot fi
+ rst\, never mix bleach with vinegar or ammonia\, and keep vinegar and lemo
+ n off natural stone. Full safety notes are on page 3 of your guide. Celest
+ ialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Home Reset: 20 minutes\, Bedrooms & laundry today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Oven (Hack 3)
+DTSTART:20261102T183500
+DTEND:20261102T185000
+DTSTAMP:20261016T120000Z
+UID:dff2d3d90b2b5285e9d0@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1MO
+DESCRIPTION:Monthly Rotation\, Week 1\, Kitchen column. Do this in place o
+ f part of today's zone\, so you still stop at 20 minutes.\n\nSpread baking
+  soda paste (1/2 cup baking soda + about 3 tbsp water) inside the cool ove
+ n tonight\, avoiding heating elements and the gas outlet. Close the door\,
+  leave about 12 hours\, then wipe it out with a damp cloth and scraper\; s
+ pray vinegar on any white residue and wipe again. Self-cleaning oven? Chec
+ k your manual first.\n\nThis box comes around again in 4 months. Skipped i
+ t? It just waits for its next turn.\n\nDefault time: 6:30 PM\, Monday to F
+ riday (monthly and seasonal tasks sit inside that block at 6:35 PM). Move 
+ it to any time that suits you: open an event\, tap Edit\, change the time
+ \, then choose 'Save for Future Events' (iPhone) or 'This and following ev
+ ents' (Google). Safety: test any hack on a small hidden spot first\, never
+  mix bleach with vinegar or ammonia\, and keep vinegar and lemon off natur
+ al stone. Full safety notes are on page 3 of your guide. CelestialPrintCan
+ ada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Oven (Hack 3)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Range hood filter (Hack 13)
+DTSTART:20261109T183500
+DTEND:20261109T185000
+DTSTAMP:20261016T120000Z
+UID:76f7e049f8e73ccba47c@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2MO
+DESCRIPTION:Monthly Rotation\, Week 2\, Kitchen column. Do this in place o
+ f part of today's zone\, so you still stop at 20 minutes.\n\nPop out the m
+ etal filter (see your manual). Soak 15+ minutes in very hot water with dis
+ h soap and 1/4 cup baking soda\, scrub gently with a soft brush\, rinse an
+ d dry completely. Charcoal filters can't be washed\, only replaced.\n\nThi
+ s box comes around again in 4 months. Skipped it? It just waits for its ne
+ xt turn.\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and seasonal
+  tasks sit inside that block at 6:35 PM). Move it to any time that suits y
+ ou: open an event\, tap Edit\, change the time\, then choose 'Save for Fut
+ ure Events' (iPhone) or 'This and following events' (Google). Safety: test
+  any hack on a small hidden spot first\, never mix bleach with vinegar or 
+ ammonia\, and keep vinegar and lemon off natural stone. Full safety notes 
+ are on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Range hood filter (Hack 13)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Dishwasher filter (Hack 15)
+DTSTART:20261116T183500
+DTEND:20261116T185000
+DTSTAMP:20261016T120000Z
+UID:34237e87d4aa819873ae@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3MO
+DESCRIPTION:Monthly Rotation\, Week 3\, Kitchen column. Do this in place o
+ f part of today's zone\, so you still stop at 20 minutes.\n\nCheck your ma
+ nual\, remove the filter (usually twist and lift)\, rinse and scrub off fo
+ od bits with a soft brush\, then lock it back in place.\n\nThis box comes 
+ around again in 4 months. Skipped it? It just waits for its next turn.\n\n
+ Default time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit i
+ nside that block at 6:35 PM). Move it to any time that suits you: open an 
+ event\, tap Edit\, change the time\, then choose 'Save for Future Events' 
+ (iPhone) or 'This and following events' (Google). Safety: test any hack on
+  a small hidden spot first\, never mix bleach with vinegar or ammonia\, an
+ d keep vinegar and lemon off natural stone. Full safety notes are on page 
+ 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Dishwasher filter (Hack 15)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Fridge clear-out
+DTSTART:20261123T183500
+DTEND:20261123T185000
+DTSTAMP:20261016T120000Z
+UID:52c6eb7267c0ee203db8@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4MO
+DESCRIPTION:Monthly Rotation\, Week 4\, Kitchen column. Do this in place o
+ f part of today's zone\, so you still stop at 20 minutes.\n\nClear out the
+  fridge and wipe the shelves with soapy water.\n\nThis box comes around ag
+ ain in 4 months. Skipped it? It just waits for its next turn.\n\nDefault t
+ ime: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside tha
+ t block at 6:35 PM). Move it to any time that suits you: open an event\, t
+ ap Edit\, change the time\, then choose 'Save for Future Events' (iPhone) 
+ or 'This and following events' (Google). Safety: test any hack on a small 
+ hidden spot first\, never mix bleach with vinegar or ammonia\, and keep vi
+ negar and lemon off natural stone. Full safety notes are on page 3 of your
+  guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Fridge clear-out
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Grout (Hack 18)
+DTSTART:20261201T183500
+DTEND:20261201T185000
+DTSTAMP:20261016T120000Z
+UID:a9b31a8495bf83befc3f@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1TU
+DESCRIPTION:Monthly Rotation\, Week 1\, Bathroom column. Do this in place 
+ of part of today's zone\, so you still stop at 20 minutes.\n\nSpread bakin
+ g soda paste along the grout lines\, wait 5-10 minutes\, scrub with an old
+  toothbrush\, rinse well. No vinegar on natural stone tile\, and never rig
+ ht after a bleach product.\n\nThis box comes around again in 4 months. Ski
+ pped it? It just waits for its next turn.\n\nDefault time: 6:30 PM\, Monda
+ y to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM).
+  Move it to any time that suits you: open an event\, tap Edit\, change the
+  time\, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Safety: test any hack on a small hidden spot first\, 
+ never mix bleach with vinegar or ammonia\, and keep vinegar and lemon off 
+ natural stone. Full safety notes are on page 3 of your guide. CelestialPri
+ ntCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Grout (Hack 18)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Showerhead (Hack 20)
+DTSTART:20261208T183500
+DTEND:20261208T185000
+DTSTAMP:20261016T120000Z
+UID:6b826f72608f2f9ad8a6@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2TU
+DESCRIPTION:Monthly Rotation\, Week 2\, Bathroom column. Do this in place 
+ of part of today's zone\, so you still stop at 20 minutes.\n\nFill a zip-t
+ op bag halfway with equal parts vinegar and water\, secure it over the sho
+ werhead with a rubber band\, leave about an hour\, then run hot water and 
+ wipe the nozzles. Brass\, gold-tone or nickel finish? Check it first and k
+ eep the soak short.\n\nThis box comes around again in 4 months. Skipped it
+ ? It just waits for its next turn.\n\nDefault time: 6:30 PM\, Monday to Fr
+ iday (monthly and seasonal tasks sit inside that block at 6:35 PM). Move i
+ t to any time that suits you: open an event\, tap Edit\, change the time\,
+  then choose 'Save for Future Events' (iPhone) or 'This and following even
+ ts' (Google). Safety: test any hack on a small hidden spot first\, never m
+ ix bleach with vinegar or ammonia\, and keep vinegar and lemon off natural
+  stone. Full safety notes are on page 3 of your guide. CelestialPrintCanad
+ a
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Showerhead (Hack 20)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Drains freshen (Hack 23)
+DTSTART:20261215T183500
+DTEND:20261215T185000
+DTSTAMP:20261016T120000Z
+UID:b4210c2bf3e2dbec5c2c@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3TU
+DESCRIPTION:Monthly Rotation\, Week 3\, Bathroom column. Do this in place 
+ of part of today's zone\, so you still stop at 20 minutes.\n\n1/2 cup baki
+ ng soda\, then 1 cup vinegar. Wait 15 minutes\, flush with hot (not boilin
+ g) water. This freshens\; it doesn't clear real clogs. Never follow a stor
+ e-bought drain cleaner with vinegar.\n\nThis box comes around again in 4 m
+ onths. Skipped it? It just waits for its next turn.\n\nDefault time: 6:30 
+ PM\, Monday to Friday (monthly and seasonal tasks sit inside that block at
+  6:35 PM). Move it to any time that suits you: open an event\, tap Edit\, 
+ change the time\, then choose 'Save for Future Events' (iPhone) or 'This a
+ nd following events' (Google). Safety: test any hack on a small hidden spo
+ t first\, never mix bleach with vinegar or ammonia\, and keep vinegar and 
+ lemon off natural stone. Full safety notes are on page 3 of your guide. Ce
+ lestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Drains freshen (Hack 23)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Bath mats + shower curtain
+DTSTART:20261222T183500
+DTEND:20261222T185000
+DTSTAMP:20261016T120000Z
+UID:2adcdd2bb27894bd1bc5@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4TU
+DESCRIPTION:Monthly Rotation\, Week 4\, Bathroom column. Do this in place 
+ of part of today's zone\, so you still stop at 20 minutes.\n\nWash the bat
+ h mats and shower curtain\, following the care labels.\n\nThis box comes a
+ round again in 4 months. Skipped it? It just waits for its next turn.\n\nD
+ efault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit in
+ side that block at 6:35 PM). Move it to any time that suits you: open an e
+ vent\, tap Edit\, change the time\, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Safety: test any hack on 
+ a small hidden spot first\, never mix bleach with vinegar or ammonia\, and
+  keep vinegar and lemon off natural stone. Full safety notes are on page 3
+  of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Bath mats + shower curtain
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Ceiling fans (Hack 26)
+DTSTART:20270106T183500
+DTEND:20270106T185000
+DTSTAMP:20261016T120000Z
+UID:67b87a0fc3dc9444b42e@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1WE
+DESCRIPTION:Monthly Rotation\, Week 1\, Living column. Do this in place of
+  part of today's zone\, so you still stop at 20 minutes.\n\nFan off. Slide
+  an old pillowcase over each blade and pull it back so the dust falls insi
+ de. Shake it out outside\, then wash it. Use a steady step stool.\n\nThis 
+ box comes around again in 4 months. Skipped it? It just waits for its next
+  turn.\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and seasonal t
+ asks sit inside that block at 6:35 PM). Move it to any time that suits you
+ : open an event\, tap Edit\, change the time\, then choose 'Save for Futur
+ e Events' (iPhone) or 'This and following events' (Google). Safety: test a
+ ny hack on a small hidden spot first\, never mix bleach with vinegar or am
+ monia\, and keep vinegar and lemon off natural stone. Full safety notes ar
+ e on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Ceiling fans (Hack 26)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Mirrors & windows (Hack 22)
+DTSTART:20270113T183500
+DTEND:20270113T185000
+DTSTAMP:20261016T120000Z
+UID:4140d2681541a2e355f2@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2WE
+DESCRIPTION:Monthly Rotation\, Week 2\, Living column. Do this in place of
+  part of today's zone\, so you still stop at 20 minutes.\n\nSpray 1:1 vine
+ gar and water onto a microfiber cloth (not the glass)\, wipe top to bottom
+ \, buff with a dry cloth. Skip hot\, sunny glass\; test tinted or coated g
+ lass first.\n\nThis box comes around again in 4 months. Skipped it? It jus
+ t waits for its next turn.\n\nDefault time: 6:30 PM\, Monday to Friday (mo
+ nthly and seasonal tasks sit inside that block at 6:35 PM). Move it to any
+  time that suits you: open an event\, tap Edit\, change the time\, then ch
+ oose 'Save for Future Events' (iPhone) or 'This and following events' (Goo
+ gle). Safety: test any hack on a small hidden spot first\, never mix bleac
+ h with vinegar or ammonia\, and keep vinegar and lemon off natural stone. 
+ Full safety notes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Mirrors & windows (Hack 22)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Carpet deodorize (Hack 25)
+DTSTART:20270120T183500
+DTEND:20270120T185000
+DTSTAMP:20261016T120000Z
+UID:b40400989dcc5e00dd49@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3WE
+DESCRIPTION:Monthly Rotation\, Week 3\, Living column. Do this in place of
+  part of today's zone\, so you still stop at 20 minutes.\n\nVacuum\, sprin
+ kle a light layer of baking soda on dry carpet\, wait 15 minutes (longer f
+ or strong smells)\, vacuum thoroughly. Test wool or delicate rugs first.\n
+ \nThis box comes around again in 4 months. Skipped it? It just waits for i
+ ts next turn.\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and sea
+ sonal tasks sit inside that block at 6:35 PM). Move it to any time that su
+ its you: open an event\, tap Edit\, change the time\, then choose 'Save fo
+ r Future Events' (iPhone) or 'This and following events' (Google). Safety:
+  test any hack on a small hidden spot first\, never mix bleach with vinega
+ r or ammonia\, and keep vinegar and lemon off natural stone. Full safety n
+ otes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Carpet deodorize (Hack 25)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Baseboards + vents
+DTSTART:20270127T183500
+DTEND:20270127T185000
+DTSTAMP:20261016T120000Z
+UID:8e9e249896efa93bb3ac@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4WE
+DESCRIPTION:Monthly Rotation\, Week 4\, Living column. Do this in place of
+  part of today's zone\, so you still stop at 20 minutes.\n\nWipe the baseb
+ oards and dust the vents.\n\nThis box comes around again in 4 months. Skip
+ ped it? It just waits for its next turn.\n\nDefault time: 6:30 PM\, Monday
+  to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM). 
+ Move it to any time that suits you: open an event\, tap Edit\, change the 
+ time\, then choose 'Save for Future Events' (iPhone) or 'This and followin
+ g events' (Google). Safety: test any hack on a small hidden spot first\, n
+ ever mix bleach with vinegar or ammonia\, and keep vinegar and lemon off n
+ atural stone. Full safety notes are on page 3 of your guide. CelestialPrin
+ tCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Baseboards + vents
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Mattress freshen (Hack 24)
+DTSTART:20270205T183500
+DTEND:20270205T185000
+DTSTAMP:20261016T120000Z
+UID:142155ede81924eef54c@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=1FR
+DESCRIPTION:Monthly Rotation\, Week 1\, Bedroom & laundry column. Do this 
+ in place of part of today's zone\, so you still stop at 20 minutes.\n\nStr
+ ip the bed\, vacuum the mattress\, sift a light dusting of baking soda ove
+ r it\, leave an hour or more\, then vacuum it up. Use a light layer and cl
+ ean the vacuum filter afterward.\n\nThis box comes around again in 4 month
+ s. Skipped it? It just waits for its next turn.\n\nDefault time: 6:30 PM\,
+  Monday to Friday (monthly and seasonal tasks sit inside that block at 6:3
+ 5 PM). Move it to any time that suits you: open an event\, tap Edit\, chan
+ ge the time\, then choose 'Save for Future Events' (iPhone) or 'This and f
+ ollowing events' (Google). Safety: test any hack on a small hidden spot fi
+ rst\, never mix bleach with vinegar or ammonia\, and keep vinegar and lemo
+ n off natural stone. Full safety notes are on page 3 of your guide. Celest
+ ialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Mattress freshen (Hack 24)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Washer clean cycle (Hack 28)
+DTSTART:20270212T183500
+DTEND:20270212T185000
+DTSTAMP:20261016T120000Z
+UID:3bb36d30249fe0ca8e81@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=2FR
+DESCRIPTION:Monthly Rotation\, Week 2\, Bedroom & laundry column. Do this 
+ in place of part of today's zone\, so you still stop at 20 minutes.\n\nWip
+ e inside the door seal\, including the folds\, and dry it. Run the Clean W
+ asher cycle with the cleaner your manual recommends. Never add vinegar and
+  bleach in the same cycle.\n\nThis box comes around again in 4 months. Ski
+ pped it? It just waits for its next turn.\n\nDefault time: 6:30 PM\, Monda
+ y to Friday (monthly and seasonal tasks sit inside that block at 6:35 PM).
+  Move it to any time that suits you: open an event\, tap Edit\, change the
+  time\, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Safety: test any hack on a small hidden spot first\, 
+ never mix bleach with vinegar or ammonia\, and keep vinegar and lemon off 
+ natural stone. Full safety notes are on page 3 of your guide. CelestialPri
+ ntCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Washer clean cycle (Hack 28)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Wash pillows/duvet
+DTSTART:20270219T183500
+DTEND:20270219T185000
+DTSTAMP:20261016T120000Z
+UID:9740a39e89eba8c1e912@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=3FR
+DESCRIPTION:Monthly Rotation\, Week 3\, Bedroom & laundry column. Do this 
+ in place of part of today's zone\, so you still stop at 20 minutes.\n\nWas
+ h pillows or the duvet\, following the care label.\n\nThis box comes aroun
+ d again in 4 months. Skipped it? It just waits for its next turn.\n\nDefau
+ lt time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside
+  that block at 6:35 PM). Move it to any time that suits you: open an event
+ \, tap Edit\, change the time\, then choose 'Save for Future Events' (iPho
+ ne) or 'This and following events' (Google). Safety: test any hack on a sm
+ all hidden spot first\, never mix bleach with vinegar or ammonia\, and kee
+ p vinegar and lemon off natural stone. Full safety notes are on page 3 of 
+ your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Wash pillows/duvet
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Monthly task: Closet declutter
+DTSTART:20270226T183500
+DTEND:20270226T185000
+DTSTAMP:20261016T120000Z
+UID:66910c5be2e951f48a4b@celestialprintcanada
+RRULE:FREQ=MONTHLY;INTERVAL=4;BYDAY=4FR
+DESCRIPTION:Monthly Rotation\, Week 4\, Bedroom & laundry column. Do this 
+ in place of part of today's zone\, so you still stop at 20 minutes.\n\n10-
+ minute closet declutter. Timer on: keep\, donate\, toss.\n\nThis box comes
+  around again in 4 months. Skipped it? It just waits for its next turn.\n
+ \nDefault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit
+  inside that block at 6:35 PM). Move it to any time that suits you: open a
+ n event\, tap Edit\, change the time\, then choose 'Save for Future Events
+ ' (iPhone) or 'This and following events' (Google). Safety: test any hack 
+ on a small hidden spot first\, never mix bleach with vinegar or ammonia\, 
+ and keep vinegar and lemon off natural stone. Full safety notes are on pag
+ e 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:This week's extra task: Closet declutter
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Spring reset: 2 weeks\, one task a day
+DTSTART:20270412T183500
+DTEND:20270412T185000
+DTSTAMP:20261016T120000Z
+UID:e67bdfdea7668b2a48f1@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=4
+DESCRIPTION:Spring reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] Windows inside (Hack 22)\n[ 
+ ] Wash curtains or wipe blinds\n[ ] Clean behind/under the fridge and stov
+ e (unplugged\, carefully)\n[ ] Swap winter bedding\n[ ] Declutter one clos
+ et\n[ ] Clean light fixtures (switched off\, cool)\n[ ] Wipe kitchen cabin
+ ets inside\n[ ] Descale kettle and coffee maker (Hacks 7-8)\n\nDefault tim
+ e: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside that 
+ block at 6:35 PM). Move it to any time that suits you: open an event\, tap
+  Edit\, change the time\, then choose 'Save for Future Events' (iPhone) or
+  'This and following events' (Google). Safety: test any hack on a small hi
+ dden spot first\, never mix bleach with vinegar or ammonia\, and keep vine
+ gar and lemon off natural stone. Full safety notes are on page 3 of your g
+ uide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spring reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer reset: 2 weeks\, one task a day
+DTSTART:20270712T183500
+DTEND:20270712T185000
+DTSTAMP:20261016T120000Z
+UID:16c1634fadb2c167260f@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=7
+DESCRIPTION:Summer reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] Wipe patio furniture\n[ ] Cl
+ ean the fridge seals\n[ ] Wash pillows (per label)\n[ ] Clean fan blades (
+ Hack 26)\n[ ] Wipe door frames and baseboards\n[ ] Clear out the pantry\n[
+  ] Wash trash cans and laundry baskets\n[ ] Wipe outdoor light covers\n\nD
+ efault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit in
+ side that block at 6:35 PM). Move it to any time that suits you: open an e
+ vent\, tap Edit\, change the time\, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Safety: test any hack on 
+ a small hidden spot first\, never mix bleach with vinegar or ammonia\, and
+  keep vinegar and lemon off natural stone. Full safety notes are on page 3
+  of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Summer reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall reset: 2 weeks\, one task a day
+DTSTART:20271011T183500
+DTEND:20271011T185000
+DTSTAMP:20261016T120000Z
+UID:32731e789847a4a99517@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=10
+DESCRIPTION:Fall reset starts today. Spread it over the next 2 weeks: one 
+ task a day in place of your zone (still 20 minutes). Monthly task on the s
+ ame day? Pick one\; the other waits.\n\n[ ] Swap to warm bedding\n[ ] Wash
+  throws and cushion covers (per label)\n[ ] Deep-clean the oven before hol
+ iday cooking (Hack 3)\n[ ] Check and clean the entryway (boots\, mats\, ho
+ oks)\n[ ] Declutter kids' or hobby supplies\n[ ] Clean the microwave and r
+ ange hood (Hacks 6\, 13)\n[ ] Wipe walls near light switches\n[ ] Clear th
+ e coat closet\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and sea
+ sonal tasks sit inside that block at 6:35 PM). Move it to any time that su
+ its you: open an event\, tap Edit\, change the time\, then choose 'Save fo
+ r Future Events' (iPhone) or 'This and following events' (Google). Safety:
+  test any hack on a small hidden spot first\, never mix bleach with vinega
+ r or ammonia\, and keep vinegar and lemon off natural stone. Full safety n
+ otes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fall reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter reset: 2 weeks\, one task a day
+DTSTART:20270111T183500
+DTEND:20270111T185000
+DTSTAMP:20261016T120000Z
+UID:a503bd62bbd39a3ccaf1@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=1
+DESCRIPTION:Winter reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] After-holiday decluttering b
+ ox\n[ ] Mattress freshen (Hack 24)\n[ ] Wipe salt and slush marks from flo
+ ors\n[ ] Clean the washer and dishwasher (Hacks 15\, 28)\n[ ] Clear out ex
+ pired meds/toiletries (follow local disposal rules)\n[ ] Wash bath mats\n[
+  ] Organize one drawer a day for a week\n[ ] Window sills and tracks\n\nDe
+ fault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit ins
+ ide that block at 6:35 PM). Move it to any time that suits you: open an ev
+ ent\, tap Edit\, change the time\, then choose 'Save for Future Events' (i
+ Phone) or 'This and following events' (Google). Safety: test any hack on a
+  small hidden spot first\, never mix bleach with vinegar or ammonia\, and 
+ keep vinegar and lemon off natural stone. Full safety notes are on page 3 
+ of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

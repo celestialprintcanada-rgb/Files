@@ -1,0 +1,61 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Each step as its own daily event. Default start: 9:30 PM. Mov
+ e it to any time that suits you: open the event, tap Edit, change the star
+ t time, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Not medical advice. Check with your doctor before sta
+ rting a new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Night Routine 20 min (step by step)
+BEGIN:VEVENT
+SUMMARY:1. Prep for tomorrow
+DTSTART:20261102T213000
+DTEND:20261102T213500
+DTSTAMP:20261016T120000Z
+UID:81944a35494369dd538b@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Lay out clothes\, pack bag\, check tomorrow's calendar.\n\nDef
+ ault start: 9:30 PM. Move it to any time that suits you: open the event\, 
+ tap Edit\, change the start time\, then choose 'Save for Future Events' (i
+ Phone) or 'This and following events' (Google). Not medical advice. Check 
+ with your doctor before starting a new exercise routine. CelestialPrintCan
+ ada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Night Routine 20 min: start with Prep for tomorrow
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. 10-minute tidy
+DTSTART:20261102T213500
+DTEND:20261102T214500
+DTSTAMP:20261016T120000Z
+UID:da6cf07865f435b7e447@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Dishes in\, counters wiped\, things back where they live. Time
+ r on\, stop when it rings.\n\nDefault start: 9:30 PM. Move it to any time 
+ that suits you: open the event\, tap Edit\, change the start time\, then c
+ hoose 'Save for Future Events' (iPhone) or 'This and following events' (Go
+ ogle). Not medical advice. Check with your doctor before starting a new ex
+ ercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. Screens off + into bed
+DTSTART:20261102T214500
+DTEND:20261102T215000
+DTSTAMP:20261016T120000Z
+UID:729581cd341fe1ddaa42@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Phone on the charger away from the bed. Lights low.\n\nDefault
+  start: 9:30 PM. Move it to any time that suits you: open the event\, tap 
+ Edit\, change the start time\, then choose 'Save for Future Events' (iPhon
+ e) or 'This and following events' (Google). Not medical advice. Check with
+  your doctor before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

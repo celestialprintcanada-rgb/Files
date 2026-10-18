@@ -1,0 +1,126 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:4 times a year, spread over 2 weeks: one task a day in place 
+ of the zone. Default time: 6:30 PM, Monday to Friday (monthly and seasonal
+  tasks sit inside that block at 6:35 PM). Move it to any time that suits y
+ ou: open an event, tap Edit, change the time, then choose 'Save for Future
+  Events' (iPhone) or 'This and following events' (Google). Safety: test an
+ y hack on a small hidden spot first, never mix bleach with vinegar or ammo
+ nia, and keep vinegar and lemon off natural stone. Full safety notes are o
+ n page 3 of your guide. CelestialPrintCanada
+X-WR-CALNAME:Home Reset: Seasonal Resets
+BEGIN:VEVENT
+SUMMARY:Spring reset: 2 weeks\, one task a day
+DTSTART:20270412T183500
+DTEND:20270412T185000
+DTSTAMP:20261016T120000Z
+UID:e67bdfdea7668b2a48f1@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=4
+DESCRIPTION:Spring reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] Windows inside (Hack 22)\n[ 
+ ] Wash curtains or wipe blinds\n[ ] Clean behind/under the fridge and stov
+ e (unplugged\, carefully)\n[ ] Swap winter bedding\n[ ] Declutter one clos
+ et\n[ ] Clean light fixtures (switched off\, cool)\n[ ] Wipe kitchen cabin
+ ets inside\n[ ] Descale kettle and coffee maker (Hacks 7-8)\n\nDefault tim
+ e: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit inside that 
+ block at 6:35 PM). Move it to any time that suits you: open an event\, tap
+  Edit\, change the time\, then choose 'Save for Future Events' (iPhone) or
+  'This and following events' (Google). Safety: test any hack on a small hi
+ dden spot first\, never mix bleach with vinegar or ammonia\, and keep vine
+ gar and lemon off natural stone. Full safety notes are on page 3 of your g
+ uide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Spring reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Summer reset: 2 weeks\, one task a day
+DTSTART:20270712T183500
+DTEND:20270712T185000
+DTSTAMP:20261016T120000Z
+UID:16c1634fadb2c167260f@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=7
+DESCRIPTION:Summer reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] Wipe patio furniture\n[ ] Cl
+ ean the fridge seals\n[ ] Wash pillows (per label)\n[ ] Clean fan blades (
+ Hack 26)\n[ ] Wipe door frames and baseboards\n[ ] Clear out the pantry\n[
+  ] Wash trash cans and laundry baskets\n[ ] Wipe outdoor light covers\n\nD
+ efault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit in
+ side that block at 6:35 PM). Move it to any time that suits you: open an e
+ vent\, tap Edit\, change the time\, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Safety: test any hack on 
+ a small hidden spot first\, never mix bleach with vinegar or ammonia\, and
+  keep vinegar and lemon off natural stone. Full safety notes are on page 3
+  of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Summer reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Fall reset: 2 weeks\, one task a day
+DTSTART:20271011T183500
+DTEND:20271011T185000
+DTSTAMP:20261016T120000Z
+UID:32731e789847a4a99517@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=10
+DESCRIPTION:Fall reset starts today. Spread it over the next 2 weeks: one 
+ task a day in place of your zone (still 20 minutes). Monthly task on the s
+ ame day? Pick one\; the other waits.\n\n[ ] Swap to warm bedding\n[ ] Wash
+  throws and cushion covers (per label)\n[ ] Deep-clean the oven before hol
+ iday cooking (Hack 3)\n[ ] Check and clean the entryway (boots\, mats\, ho
+ oks)\n[ ] Declutter kids' or hobby supplies\n[ ] Clean the microwave and r
+ ange hood (Hacks 6\, 13)\n[ ] Wipe walls near light switches\n[ ] Clear th
+ e coat closet\n\nDefault time: 6:30 PM\, Monday to Friday (monthly and sea
+ sonal tasks sit inside that block at 6:35 PM). Move it to any time that su
+ its you: open an event\, tap Edit\, change the time\, then choose 'Save fo
+ r Future Events' (iPhone) or 'This and following events' (Google). Safety:
+  test any hack on a small hidden spot first\, never mix bleach with vinega
+ r or ammonia\, and keep vinegar and lemon off natural stone. Full safety n
+ otes are on page 3 of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Fall reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:Winter reset: 2 weeks\, one task a day
+DTSTART:20270111T183500
+DTEND:20270111T185000
+DTSTAMP:20261016T120000Z
+UID:a503bd62bbd39a3ccaf1@celestialprintcanada
+RRULE:FREQ=YEARLY;BYDAY=2MO;BYMONTH=1
+DESCRIPTION:Winter reset starts today. Spread it over the next 2 weeks: on
+ e task a day in place of your zone (still 20 minutes). Monthly task on the
+  same day? Pick one\; the other waits.\n\n[ ] After-holiday decluttering b
+ ox\n[ ] Mattress freshen (Hack 24)\n[ ] Wipe salt and slush marks from flo
+ ors\n[ ] Clean the washer and dishwasher (Hacks 15\, 28)\n[ ] Clear out ex
+ pired meds/toiletries (follow local disposal rules)\n[ ] Wash bath mats\n[
+  ] Organize one drawer a day for a week\n[ ] Window sills and tracks\n\nDe
+ fault time: 6:30 PM\, Monday to Friday (monthly and seasonal tasks sit ins
+ ide that block at 6:35 PM). Move it to any time that suits you: open an ev
+ ent\, tap Edit\, change the time\, then choose 'Save for Future Events' (i
+ Phone) or 'This and following events' (Google). Safety: test any hack on a
+  small hidden spot first\, never mix bleach with vinegar or ammonia\, and 
+ keep vinegar and lemon off natural stone. Full safety notes are on page 3 
+ of your guide. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Winter reset starts today
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

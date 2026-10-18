@@ -1,0 +1,38 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:30-minute routine. Daily. Default start: 6:00 AM. Set it to t
+ he time you usually wake up for a shift. open the event, tap Edit, change 
+ the start time, then choose 'Save for Future Events' (iPhone) or 'This and
+  following events' (Google). Not medical advice. Check with your doctor be
+ fore starting a new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Shift Worker Wake-Up Routine 30 min (any hour)
+BEGIN:VEVENT
+SUMMARY:Shift Worker Wake-Up Routine 30 min (any hour)
+DTSTART:20261102T060000
+DTEND:20261102T063000
+DTSTAMP:20261016T120000Z
+UID:4cf5ea656cdfac48a355@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wake + water + bright light (2 min) - Turn on bright lights
+  right away\, whatever the hour. Drink water.\n2. Workout (10 min) - 10-mi
+ n no-equipment circuit: 2 rounds of 45s on/15s off: marching or jogging in
+  place\, squats\, wall or knee push-ups\, glute bridges\, plank (knees ok)
+ .\n3. Shower + uniform (8 min) - Uniform and bag laid out before you slept
+ .\n4. First meal (8 min) - Count it as breakfast\, whatever the clock says
+ . Pack your shift snacks.\n5. Shift check (2 min) - Badge\, keys\, charger
+ \, water bottle\, meals.\n\nDefault start: 6:00 AM. Set it to the time you
+  usually wake up for a shift. open the event\, tap Edit\, change the start
+  time\, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Not medical advice. Check with your doctor before sta
+ rting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Shift Worker Wake-Up Routine 30 min (any hour)
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

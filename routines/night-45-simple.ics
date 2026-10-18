@@ -1,0 +1,37 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:45-minute routine. Daily. Default start: 9:00 PM. Move it to 
+ any time that suits you: open the event, tap Edit, change the start time, 
+ then choose 'Save for Future Events' (iPhone) or 'This and following event
+ s' (Google). Not medical advice. Check with your doctor before starting a 
+ new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Night Routine 45 min
+BEGIN:VEVENT
+SUMMARY:Night Routine 45 min
+DTSTART:20261102T210000
+DTEND:20261102T214500
+DTSTAMP:20261016T120000Z
+UID:da2449c603843f1d2377@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:1. Wind down (10 min) - Lights low\, warm shower or herbal tea
+ \, no caffeine or big meals now.\n2. Prep for tomorrow (10 min) - Clothes 
+ out\, lunch packed\, bag by the door\, top 3 written.\n3. 10-minute tidy (
+ 10 min) - Kitchen reset\, one room pick-up. Stop at the timer.\n4. Screens
+  off (5 min) - Devices off and charging outside the bedroom if you can.\n5
+ . Read\, stretch or journal + sleep (10 min) - Paper book\, gentle stretch
+ \, or 3 lines of journal. Lights out.\n\nDefault start: 9:00 PM. Move it t
+ o any time that suits you: open the event\, tap Edit\, change the start ti
+ me\, then choose 'Save for Future Events' (iPhone) or 'This and following 
+ events' (Google). Not medical advice. Check with your doctor before starti
+ ng a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Time for your Night Routine 45 min
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

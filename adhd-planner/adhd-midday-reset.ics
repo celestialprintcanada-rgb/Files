@@ -1,0 +1,30 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Suggested time only: move it to whenever suits you. Optional 
+ helper: keep the ones that help, delete the rest, no guilt. Edit and choos
+ e 'Save for future events' / 'This and following events'. Not medical advi
+ ce. CelestialPrintCanada
+X-WR-CALNAME:ADHD Planner: Midday reset nudge
+BEGIN:VEVENT
+SUMMARY:Midday reset nudge
+DTSTART:20261102T123000
+DTEND:20261102T123500
+DTSTAMP:20261016T120000Z
+UID:bcc8186c1781ab90853f@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Water\, snack\, stand up and stretch. Look at your top 3: what
+ 's the very next tiny step?\n\nDefault time: 12:30 PM. Suggested time only
+ : move it to whenever suits you. Optional helper: keep the ones that help
+ \, delete the rest\, no guilt. Edit and choose 'Save for future events' / 
+ 'This and following events'. Not medical advice. CelestialPrintCanada
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Midday reset nudge
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+END:VCALENDAR

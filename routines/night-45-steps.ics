@@ -1,0 +1,91 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//CelestialPrintCanada//Routine Calendars 1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALDESC:Each step as its own daily event. Default start: 9:00 PM. Mov
+ e it to any time that suits you: open the event, tap Edit, change the star
+ t time, then choose 'Save for Future Events' (iPhone) or 'This and followi
+ ng events' (Google). Not medical advice. Check with your doctor before sta
+ rting a new exercise routine. CelestialPrintCanada
+X-WR-CALNAME:Night Routine 45 min (step by step)
+BEGIN:VEVENT
+SUMMARY:1. Wind down
+DTSTART:20261102T210000
+DTEND:20261102T211000
+DTSTAMP:20261016T120000Z
+UID:8363ce458d9aadfc7520@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Lights low\, warm shower or herbal tea\, no caffeine or big me
+ als now.\n\nDefault start: 9:00 PM. Move it to any time that suits you: op
+ en the event\, tap Edit\, change the start time\, then choose 'Save for Fu
+ ture Events' (iPhone) or 'This and following events' (Google). Not medical
+  advice. Check with your doctor before starting a new exercise routine. Ce
+ lestialPrintCanada
+TRANSP:OPAQUE
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Night Routine 45 min: start with Wind down
+TRIGGER:-PT0M
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:2. Prep for tomorrow
+DTSTART:20261102T211000
+DTEND:20261102T212000
+DTSTAMP:20261016T120000Z
+UID:75ac23861012b00a2c96@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Clothes out\, lunch packed\, bag by the door\, top 3 written.
+ \n\nDefault start: 9:00 PM. Move it to any time that suits you: open the e
+ vent\, tap Edit\, change the start time\, then choose 'Save for Future Eve
+ nts' (iPhone) or 'This and following events' (Google). Not medical advice.
+  Check with your doctor before starting a new exercise routine. CelestialP
+ rintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:3. 10-minute tidy
+DTSTART:20261102T212000
+DTEND:20261102T213000
+DTSTAMP:20261016T120000Z
+UID:7ede7b883cad465077a5@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Kitchen reset\, one room pick-up. Stop at the timer.\n\nDefaul
+ t start: 9:00 PM. Move it to any time that suits you: open the event\, tap
+  Edit\, change the start time\, then choose 'Save for Future Events' (iPho
+ ne) or 'This and following events' (Google). Not medical advice. Check wit
+ h your doctor before starting a new exercise routine. CelestialPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:4. Screens off
+DTSTART:20261102T213000
+DTEND:20261102T213500
+DTSTAMP:20261016T120000Z
+UID:8f1e70107c122774326e@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Devices off and charging outside the bedroom if you can.\n\nDe
+ fault start: 9:00 PM. Move it to any time that suits you: open the event\,
+  tap Edit\, change the start time\, then choose 'Save for Future Events' (
+ iPhone) or 'This and following events' (Google). Not medical advice. Check
+  with your doctor before starting a new exercise routine. CelestialPrintCa
+ nada
+TRANSP:OPAQUE
+END:VEVENT
+BEGIN:VEVENT
+SUMMARY:5. Read\, stretch or journal + sleep
+DTSTART:20261102T213500
+DTEND:20261102T214500
+DTSTAMP:20261016T120000Z
+UID:bbd5a2d99d0d0d8da565@celestialprintcanada
+RRULE:FREQ=DAILY
+DESCRIPTION:Paper book\, gentle stretch\, or 3 lines of journal. Lights ou
+ t.\n\nDefault start: 9:00 PM. Move it to any time that suits you: open the
+  event\, tap Edit\, change the start time\, then choose 'Save for Future E
+ vents' (iPhone) or 'This and following events' (Google). Not medical advic
+ e. Check with your doctor before starting a new exercise routine. Celestia
+ lPrintCanada
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR
